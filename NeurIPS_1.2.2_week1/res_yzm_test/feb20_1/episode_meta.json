@@ -1,0 +1,11 @@
+{
+    "agent_seed": 166099527,
+    "backend_type": "LightSimBackend_input_data_val",
+    "chronics_max_timestep": "2016",
+    "chronics_path": "/home/omnesloi/Documents/Scripts_python/data/eval_NeurIPS/input_data_val/chronics/feb20.1",
+    "cumulative_reward": 36265.9296875,
+    "env_seed": 485024395,
+    "env_type": "Environment_input_data_val",
+    "grid_path": "/home/omnesloi/Documents/Scripts_python/data/eval_NeurIPS/input_data_val/grid.json",
+    "nb_timestep_played": 818
+}

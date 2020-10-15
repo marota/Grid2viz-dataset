@@ -1,0 +1,4887 @@
+[
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 283.681640625,
+        "l2rpn_atc_reward": 51.409339904785156
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 285.03173828125,
+        "l2rpn_atc_reward": 51.353660583496094
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 289.02587890625,
+        "l2rpn_atc_reward": 51.275840759277344
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 286.57470703125,
+        "l2rpn_atc_reward": 51.33282470703125
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 281.4208984375,
+        "l2rpn_atc_reward": 51.46354675292969
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 281.5283203125,
+        "l2rpn_atc_reward": 51.4693603515625
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 278.40576171875,
+        "l2rpn_atc_reward": 51.54902648925781
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 279.3603515625,
+        "l2rpn_atc_reward": 51.513710021972656
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 275.0634765625,
+        "l2rpn_atc_reward": 51.620208740234375
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 272.30224609375,
+        "l2rpn_atc_reward": 51.69192886352539
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 270.89599609375,
+        "l2rpn_atc_reward": 51.745601654052734
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 270.05615234375,
+        "l2rpn_atc_reward": 51.74143600463867
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 268.04931640625,
+        "l2rpn_atc_reward": 51.80031204223633
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 261.7138671875,
+        "l2rpn_atc_reward": 51.95766830444336
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 261.904296875,
+        "l2rpn_atc_reward": 51.96285629272461
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 260.75927734375,
+        "l2rpn_atc_reward": 52.0084228515625
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 264.45068359375,
+        "l2rpn_atc_reward": 51.9250373840332
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 262.63671875,
+        "l2rpn_atc_reward": 51.96794509887695
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 263.1982421875,
+        "l2rpn_atc_reward": 51.94896697998047
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 267.01416015625,
+        "l2rpn_atc_reward": 51.87503433227539
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 264.33349609375,
+        "l2rpn_atc_reward": 51.92164993286133
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 267.5146484375,
+        "l2rpn_atc_reward": 51.84969711303711
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 263.74267578125,
+        "l2rpn_atc_reward": 51.920745849609375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 265.41259765625,
+        "l2rpn_atc_reward": 51.90501403808594
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 265.52001953125,
+        "l2rpn_atc_reward": 51.902042388916016
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 267.20947265625,
+        "l2rpn_atc_reward": 51.86587905883789
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 265.6884765625,
+        "l2rpn_atc_reward": 51.92035675048828
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 265.64697265625,
+        "l2rpn_atc_reward": 51.9089469909668
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 265.126953125,
+        "l2rpn_atc_reward": 51.92366027832031
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 264.54345703125,
+        "l2rpn_atc_reward": 51.933372497558594
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 265.75927734375,
+        "l2rpn_atc_reward": 51.91386032104492
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 271.1865234375,
+        "l2rpn_atc_reward": 51.78157424926758
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 264.140625,
+        "l2rpn_atc_reward": 51.96788787841797
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 265.5615234375,
+        "l2rpn_atc_reward": 51.93572998046875
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 265.80322265625,
+        "l2rpn_atc_reward": 51.9249382019043
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 265.9130859375,
+        "l2rpn_atc_reward": 51.968170166015625
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 267.705078125,
+        "l2rpn_atc_reward": 51.94101333618164
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 265.8447265625,
+        "l2rpn_atc_reward": 52.0167121887207
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 268.974609375,
+        "l2rpn_atc_reward": 51.937313079833984
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 265.1513671875,
+        "l2rpn_atc_reward": 52.04289627075195
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 267.265625,
+        "l2rpn_atc_reward": 51.994422912597656
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 265.1904296875,
+        "l2rpn_atc_reward": 52.072601318359375
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 266.96533203125,
+        "l2rpn_atc_reward": 52.040382385253906
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 267.15576171875,
+        "l2rpn_atc_reward": 52.04705047607422
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 266.01318359375,
+        "l2rpn_atc_reward": 52.0872917175293
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 267.705078125,
+        "l2rpn_atc_reward": 52.04848861694336
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 267.646484375,
+        "l2rpn_atc_reward": 52.05034255981445
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 270.244140625,
+        "l2rpn_atc_reward": 52.02265548706055
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 270.99365234375,
+        "l2rpn_atc_reward": 52.00091552734375
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 266.90185546875,
+        "l2rpn_atc_reward": 52.067230224609375
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 266.875,
+        "l2rpn_atc_reward": 52.0063591003418
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 257.35107421875,
+        "l2rpn_atc_reward": 52.09797286987305
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 252.2021484375,
+        "l2rpn_atc_reward": 52.12395095825195
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 248.57666015625,
+        "l2rpn_atc_reward": 52.126956939697266
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 248.57421875,
+        "l2rpn_atc_reward": 52.14015197753906
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 251.45263671875,
+        "l2rpn_atc_reward": 52.09879684448242
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 243.7744140625,
+        "l2rpn_atc_reward": 52.228729248046875
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 243.9453125,
+        "l2rpn_atc_reward": 52.16208267211914
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 245.5810546875,
+        "l2rpn_atc_reward": 52.22279357910156
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 241.42333984375,
+        "l2rpn_atc_reward": 52.27047348022461
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 241.9384765625,
+        "l2rpn_atc_reward": 52.28045654296875
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 247.65625,
+        "l2rpn_atc_reward": 52.232887268066406
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 253.92578125,
+        "l2rpn_atc_reward": 52.179168701171875
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 250.6005859375,
+        "l2rpn_atc_reward": 52.31719207763672
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 256.63330078125,
+        "l2rpn_atc_reward": 52.27995681762695
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 256.25244140625,
+        "l2rpn_atc_reward": 52.31535720825195
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 254.24560546875,
+        "l2rpn_atc_reward": 52.33842468261719
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 252.9541015625,
+        "l2rpn_atc_reward": 52.35898971557617
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 250.43212890625,
+        "l2rpn_atc_reward": 52.40410614013672
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 247.71240234375,
+        "l2rpn_atc_reward": 52.45205307006836
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 245.06591796875,
+        "l2rpn_atc_reward": 52.53373336791992
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 239.58740234375,
+        "l2rpn_atc_reward": 52.64174270629883
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 238.3251953125,
+        "l2rpn_atc_reward": 52.684410095214844
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 233.20068359375,
+        "l2rpn_atc_reward": 52.798728942871094
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 234.150390625,
+        "l2rpn_atc_reward": 52.749664306640625
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 228.76220703125,
+        "l2rpn_atc_reward": 52.85617446899414
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 223.98681640625,
+        "l2rpn_atc_reward": 52.95320129394531
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 216.97021484375,
+        "l2rpn_atc_reward": 53.08114242553711
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 218.02490234375,
+        "l2rpn_atc_reward": 53.040626525878906
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 215.4736328125,
+        "l2rpn_atc_reward": 53.07160568237305
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 210.7421875,
+        "l2rpn_atc_reward": 53.16685485839844
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 209.34814453125,
+        "l2rpn_atc_reward": 53.1722526550293
+    },
+    {
+        "MinMargin_reward": 0.3799999952316284,
+        "grid_operation_cost": 202.97119140625,
+        "l2rpn_atc_reward": 53.289852142333984
+    },
+    {
+        "MinMargin_reward": 0.3799999952316284,
+        "grid_operation_cost": 202.41943359375,
+        "l2rpn_atc_reward": 53.28717041015625
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 197.52197265625,
+        "l2rpn_atc_reward": 53.367103576660156
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 197.4462890625,
+        "l2rpn_atc_reward": 53.352691650390625
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 196.5625,
+        "l2rpn_atc_reward": 53.381160736083984
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 192.7490234375,
+        "l2rpn_atc_reward": 53.443302154541016
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 191.90185546875,
+        "l2rpn_atc_reward": 53.42368698120117
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 189.43359375,
+        "l2rpn_atc_reward": 53.462928771972656
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 188.17626953125,
+        "l2rpn_atc_reward": 53.45435333251953
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 185.283203125,
+        "l2rpn_atc_reward": 53.51922607421875
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 186.005859375,
+        "l2rpn_atc_reward": 53.47653579711914
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 184.67041015625,
+        "l2rpn_atc_reward": 53.47482681274414
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 185.83251953125,
+        "l2rpn_atc_reward": 53.40933609008789
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 184.3701171875,
+        "l2rpn_atc_reward": 53.68262481689453
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 183.349609375,
+        "l2rpn_atc_reward": 53.70139694213867
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 179.25048828125,
+        "l2rpn_atc_reward": 53.77067565917969
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 180.13916015625,
+        "l2rpn_atc_reward": 53.731285095214844
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 178.37646484375,
+        "l2rpn_atc_reward": 53.770050048828125
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 178.71337890625,
+        "l2rpn_atc_reward": 53.73783493041992
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 177.49755859375,
+        "l2rpn_atc_reward": 53.737388610839844
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 176.552734375,
+        "l2rpn_atc_reward": 53.76823425292969
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 172.20703125,
+        "l2rpn_atc_reward": 53.842166900634766
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 171.494140625,
+        "l2rpn_atc_reward": 53.82563018798828
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 171.4306640625,
+        "l2rpn_atc_reward": 53.82577896118164
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 171.50146484375,
+        "l2rpn_atc_reward": 53.816688537597656
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 170.0830078125,
+        "l2rpn_atc_reward": 53.830780029296875
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 169.87060546875,
+        "l2rpn_atc_reward": 53.824275970458984
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 187.421875,
+        "l2rpn_atc_reward": 52.405242919921875
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 182.6318359375,
+        "l2rpn_atc_reward": 52.542415618896484
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 182.61474609375,
+        "l2rpn_atc_reward": 52.535072326660156
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 180.771484375,
+        "l2rpn_atc_reward": 52.59095764160156
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 182.81005859375,
+        "l2rpn_atc_reward": 52.4927864074707
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 182.5732421875,
+        "l2rpn_atc_reward": 52.45909118652344
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 180.8154296875,
+        "l2rpn_atc_reward": 52.50390625
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 181.01318359375,
+        "l2rpn_atc_reward": 52.47467041015625
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 182.01171875,
+        "l2rpn_atc_reward": 52.43828582763672
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 179.25537109375,
+        "l2rpn_atc_reward": 52.48508834838867
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 177.685546875,
+        "l2rpn_atc_reward": 52.55373764038086
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 180.33203125,
+        "l2rpn_atc_reward": 52.4350471496582
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 178.96728515625,
+        "l2rpn_atc_reward": 52.48214340209961
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 177.01904296875,
+        "l2rpn_atc_reward": 52.53716278076172
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 177.84912109375,
+        "l2rpn_atc_reward": 52.47431564331055
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 177.021484375,
+        "l2rpn_atc_reward": 52.52242660522461
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 177.6318359375,
+        "l2rpn_atc_reward": 52.50631332397461
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 176.12060546875,
+        "l2rpn_atc_reward": 52.5261116027832
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 175.8544921875,
+        "l2rpn_atc_reward": 52.54763412475586
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 180.68115234375,
+        "l2rpn_atc_reward": 52.392799377441406
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 180.83984375,
+        "l2rpn_atc_reward": 52.408164978027344
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 178.14453125,
+        "l2rpn_atc_reward": 52.45794677734375
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 178.1396484375,
+        "l2rpn_atc_reward": 52.4744987487793
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 178.85009765625,
+        "l2rpn_atc_reward": 52.441165924072266
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 178.88671875,
+        "l2rpn_atc_reward": 52.403377532958984
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 177.1826171875,
+        "l2rpn_atc_reward": 52.46318817138672
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 181.0400390625,
+        "l2rpn_atc_reward": 52.349666595458984
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 183.04443359375,
+        "l2rpn_atc_reward": 52.28242492675781
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 181.76025390625,
+        "l2rpn_atc_reward": 52.339630126953125
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 181.708984375,
+        "l2rpn_atc_reward": 52.332366943359375
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 183.60595703125,
+        "l2rpn_atc_reward": 52.26443099975586
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 184.32861328125,
+        "l2rpn_atc_reward": 52.221153259277344
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 185.19287109375,
+        "l2rpn_atc_reward": 52.22233200073242
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 187.0751953125,
+        "l2rpn_atc_reward": 52.135379791259766
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 185.2490234375,
+        "l2rpn_atc_reward": 51.98014450073242
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 185.74462890625,
+        "l2rpn_atc_reward": 51.91173553466797
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 188.037109375,
+        "l2rpn_atc_reward": 51.84387969970703
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 188.7158203125,
+        "l2rpn_atc_reward": 51.866512298583984
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 189.56298828125,
+        "l2rpn_atc_reward": 51.86933517456055
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 192.919921875,
+        "l2rpn_atc_reward": 51.7718505859375
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 193.876953125,
+        "l2rpn_atc_reward": 51.74311828613281
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 194.3359375,
+        "l2rpn_atc_reward": 51.73390579223633
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 194.86328125,
+        "l2rpn_atc_reward": 51.75306701660156
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 195.90576171875,
+        "l2rpn_atc_reward": 51.72080993652344
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 197.9150390625,
+        "l2rpn_atc_reward": 51.697837829589844
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 197.5634765625,
+        "l2rpn_atc_reward": 51.64391326904297
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 206.53564453125,
+        "l2rpn_atc_reward": 51.463321685791016
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 206.37451171875,
+        "l2rpn_atc_reward": 51.483489990234375
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 205.32470703125,
+        "l2rpn_atc_reward": 51.506874084472656
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 205.9423828125,
+        "l2rpn_atc_reward": 51.43885040283203
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 209.06494140625,
+        "l2rpn_atc_reward": 51.37687301635742
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 209.55810546875,
+        "l2rpn_atc_reward": 51.38969421386719
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 209.5068359375,
+        "l2rpn_atc_reward": 51.40138244628906
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 212.23388671875,
+        "l2rpn_atc_reward": 51.32906723022461
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 216.15966796875,
+        "l2rpn_atc_reward": 51.25665283203125
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 207.9541015625,
+        "l2rpn_atc_reward": 51.471778869628906
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 210.009765625,
+        "l2rpn_atc_reward": 51.45298767089844
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 210.1806640625,
+        "l2rpn_atc_reward": 51.434593200683594
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 208.7255859375,
+        "l2rpn_atc_reward": 51.480506896972656
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 211.0498046875,
+        "l2rpn_atc_reward": 51.430755615234375
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 213.00537109375,
+        "l2rpn_atc_reward": 51.38665008544922
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 208.76708984375,
+        "l2rpn_atc_reward": 51.51543045043945
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 212.14111328125,
+        "l2rpn_atc_reward": 51.38187026977539
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 213.623046875,
+        "l2rpn_atc_reward": 51.3632698059082
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 211.40625,
+        "l2rpn_atc_reward": 51.43941879272461
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 210.72265625,
+        "l2rpn_atc_reward": 51.464717864990234
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 211.96044921875,
+        "l2rpn_atc_reward": 51.402427673339844
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 212.14599609375,
+        "l2rpn_atc_reward": 51.43712615966797
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 210.76171875,
+        "l2rpn_atc_reward": 51.45094680786133
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 212.158203125,
+        "l2rpn_atc_reward": 51.44792938232422
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 214.3994140625,
+        "l2rpn_atc_reward": 51.42290115356445
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 214.53369140625,
+        "l2rpn_atc_reward": 51.46506881713867
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 214.39697265625,
+        "l2rpn_atc_reward": 51.46686935424805
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 213.41796875,
+        "l2rpn_atc_reward": 51.50245666503906
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 219.63623046875,
+        "l2rpn_atc_reward": 51.32401657104492
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 214.638671875,
+        "l2rpn_atc_reward": 51.50246047973633
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 218.84033203125,
+        "l2rpn_atc_reward": 51.423519134521484
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 217.52685546875,
+        "l2rpn_atc_reward": 51.4592170715332
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 221.00341796875,
+        "l2rpn_atc_reward": 51.362510681152344
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 226.4892578125,
+        "l2rpn_atc_reward": 51.24919128417969
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 227.11669921875,
+        "l2rpn_atc_reward": 51.241241455078125
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 231.72607421875,
+        "l2rpn_atc_reward": 51.151214599609375
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 230.859375,
+        "l2rpn_atc_reward": 51.13747024536133
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 233.5205078125,
+        "l2rpn_atc_reward": 51.089874267578125
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 235.849609375,
+        "l2rpn_atc_reward": 51.072227478027344
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 237.93212890625,
+        "l2rpn_atc_reward": 51.0525016784668
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 239.24072265625,
+        "l2rpn_atc_reward": 51.036495208740234
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 243.96240234375,
+        "l2rpn_atc_reward": 50.92620849609375
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 247.84423828125,
+        "l2rpn_atc_reward": 50.864017486572266
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 254.62890625,
+        "l2rpn_atc_reward": 50.7114372253418
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 256.0546875,
+        "l2rpn_atc_reward": 50.683719635009766
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 256.5771484375,
+        "l2rpn_atc_reward": 50.71331024169922
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 261.90673828125,
+        "l2rpn_atc_reward": 50.56060028076172
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 267.75146484375,
+        "l2rpn_atc_reward": 50.4527587890625
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 271.19140625,
+        "l2rpn_atc_reward": 50.38570022583008
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 275.42236328125,
+        "l2rpn_atc_reward": 50.27275466918945
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 280.5029296875,
+        "l2rpn_atc_reward": 50.169681549072266
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 261.5625,
+        "l2rpn_atc_reward": 51.60313415527344
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 265.4736328125,
+        "l2rpn_atc_reward": 51.50994110107422
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 275.58349609375,
+        "l2rpn_atc_reward": 51.30533218383789
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 282.13623046875,
+        "l2rpn_atc_reward": 51.15066146850586
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 288.62060546875,
+        "l2rpn_atc_reward": 51.032752990722656
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 297.98583984375,
+        "l2rpn_atc_reward": 50.769779205322266
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 306.064453125,
+        "l2rpn_atc_reward": 50.57181167602539
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 312.61962890625,
+        "l2rpn_atc_reward": 50.461299896240234
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 319.72412109375,
+        "l2rpn_atc_reward": 50.301963806152344
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 323.83544921875,
+        "l2rpn_atc_reward": 50.22516632080078
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 339.9072265625,
+        "l2rpn_atc_reward": 49.844608306884766
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 343.27880859375,
+        "l2rpn_atc_reward": 49.77123260498047
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 347.7783203125,
+        "l2rpn_atc_reward": 49.64939498901367
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 356.03271484375,
+        "l2rpn_atc_reward": 49.490726470947266
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 361.81884765625,
+        "l2rpn_atc_reward": 49.349674224853516
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 366.5185546875,
+        "l2rpn_atc_reward": 49.25193786621094
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 366.0791015625,
+        "l2rpn_atc_reward": 49.26311111450195
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 370.35400390625,
+        "l2rpn_atc_reward": 49.15622329711914
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 379.57275390625,
+        "l2rpn_atc_reward": 48.952457427978516
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 377.31689453125,
+        "l2rpn_atc_reward": 49.01992416381836
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 378.21044921875,
+        "l2rpn_atc_reward": 48.9762077331543
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 393.0517578125,
+        "l2rpn_atc_reward": 48.66658401489258
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 389.78271484375,
+        "l2rpn_atc_reward": 48.71245193481445
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 395.31982421875,
+        "l2rpn_atc_reward": 48.58700942993164
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 393.16650390625,
+        "l2rpn_atc_reward": 48.66180419921875
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 396.77490234375,
+        "l2rpn_atc_reward": 48.57481002807617
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 400.50048828125,
+        "l2rpn_atc_reward": 48.51011276245117
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 397.861328125,
+        "l2rpn_atc_reward": 48.57655334472656
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 396.26708984375,
+        "l2rpn_atc_reward": 48.638851165771484
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 394.82421875,
+        "l2rpn_atc_reward": 48.657840728759766
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 390.15869140625,
+        "l2rpn_atc_reward": 48.773712158203125
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 385.7861328125,
+        "l2rpn_atc_reward": 48.86360549926758
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 390.10986328125,
+        "l2rpn_atc_reward": 48.81538772583008
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 380.84228515625,
+        "l2rpn_atc_reward": 49.01436996459961
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 379.6630859375,
+        "l2rpn_atc_reward": 49.04653549194336
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 372.81982421875,
+        "l2rpn_atc_reward": 49.21854019165039
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 365.78369140625,
+        "l2rpn_atc_reward": 49.40681457519531
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 364.25537109375,
+        "l2rpn_atc_reward": 49.42972946166992
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 365.05615234375,
+        "l2rpn_atc_reward": 49.407596588134766
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 360.75927734375,
+        "l2rpn_atc_reward": 49.52646255493164
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 354.2822265625,
+        "l2rpn_atc_reward": 49.680908203125
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 348.3154296875,
+        "l2rpn_atc_reward": 49.815330505371094
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 347.333984375,
+        "l2rpn_atc_reward": 49.843387603759766
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 340.8203125,
+        "l2rpn_atc_reward": 49.99263381958008
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 336.61376953125,
+        "l2rpn_atc_reward": 50.08188247680664
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 338.52783203125,
+        "l2rpn_atc_reward": 50.037269592285156
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 332.28515625,
+        "l2rpn_atc_reward": 50.16304397583008
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 330.634765625,
+        "l2rpn_atc_reward": 50.22000503540039
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 326.82373046875,
+        "l2rpn_atc_reward": 50.289188385009766
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 324.26513671875,
+        "l2rpn_atc_reward": 50.369590759277344
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 320.0048828125,
+        "l2rpn_atc_reward": 50.49190902709961
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 316.91162109375,
+        "l2rpn_atc_reward": 50.53725051879883
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 314.404296875,
+        "l2rpn_atc_reward": 50.63555145263672
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 311.97509765625,
+        "l2rpn_atc_reward": 50.661102294921875
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 308.828125,
+        "l2rpn_atc_reward": 50.731937408447266
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 307.00439453125,
+        "l2rpn_atc_reward": 50.772342681884766
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 305.93994140625,
+        "l2rpn_atc_reward": 50.780635833740234
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 298.2861328125,
+        "l2rpn_atc_reward": 50.96689224243164
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 299.0673828125,
+        "l2rpn_atc_reward": 50.96484375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 298.6669921875,
+        "l2rpn_atc_reward": 50.954505920410156
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 297.333984375,
+        "l2rpn_atc_reward": 50.96882247924805
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 301.72607421875,
+        "l2rpn_atc_reward": 50.84748077392578
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 303.33251953125,
+        "l2rpn_atc_reward": 50.83696365356445
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 303.43994140625,
+        "l2rpn_atc_reward": 50.816368103027344
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 304.86083984375,
+        "l2rpn_atc_reward": 50.76888656616211
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 305.5908203125,
+        "l2rpn_atc_reward": 50.77317428588867
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 309.5263671875,
+        "l2rpn_atc_reward": 50.66105270385742
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 315.3271484375,
+        "l2rpn_atc_reward": 50.535804748535156
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 322.2607421875,
+        "l2rpn_atc_reward": 50.39912796020508
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 325.8837890625,
+        "l2rpn_atc_reward": 50.31023406982422
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 327.548828125,
+        "l2rpn_atc_reward": 50.26231384277344
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 338.8134765625,
+        "l2rpn_atc_reward": 49.99479675292969
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 343.1982421875,
+        "l2rpn_atc_reward": 49.91801452636719
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 342.75146484375,
+        "l2rpn_atc_reward": 49.91154861450195
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 340.2880859375,
+        "l2rpn_atc_reward": 49.96321487426758
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 343.08837890625,
+        "l2rpn_atc_reward": 49.898651123046875
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 336.20849609375,
+        "l2rpn_atc_reward": 50.04481887817383
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 342.69287109375,
+        "l2rpn_atc_reward": 49.9001350402832
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 337.28515625,
+        "l2rpn_atc_reward": 50.02621078491211
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 336.37451171875,
+        "l2rpn_atc_reward": 50.04701232910156
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 344.27734375,
+        "l2rpn_atc_reward": 49.88706970214844
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 345.7373046875,
+        "l2rpn_atc_reward": 49.86773681640625
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 345.5126953125,
+        "l2rpn_atc_reward": 49.83548355102539
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 347.70263671875,
+        "l2rpn_atc_reward": 49.83039093017578
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 350.4541015625,
+        "l2rpn_atc_reward": 49.782413482666016
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 355.6640625,
+        "l2rpn_atc_reward": 49.660491943359375
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 358.203125,
+        "l2rpn_atc_reward": 49.57423782348633
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 346.66748046875,
+        "l2rpn_atc_reward": 49.83407974243164
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 344.22119140625,
+        "l2rpn_atc_reward": 49.8762092590332
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 335.1123046875,
+        "l2rpn_atc_reward": 50.103450775146484
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 332.97607421875,
+        "l2rpn_atc_reward": 50.12771987915039
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 327.705078125,
+        "l2rpn_atc_reward": 50.2791748046875
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 324.78271484375,
+        "l2rpn_atc_reward": 50.355228424072266
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 319.6728515625,
+        "l2rpn_atc_reward": 50.404293060302734
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 319.56298828125,
+        "l2rpn_atc_reward": 50.479549407958984
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 319.16748046875,
+        "l2rpn_atc_reward": 50.44761276245117
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 310.28076171875,
+        "l2rpn_atc_reward": 50.693504333496094
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 312.2607421875,
+        "l2rpn_atc_reward": 50.64134216308594
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 311.81884765625,
+        "l2rpn_atc_reward": 50.64474105834961
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 309.53857421875,
+        "l2rpn_atc_reward": 50.71038818359375
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 307.24609375,
+        "l2rpn_atc_reward": 50.73675537109375
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 304.25048828125,
+        "l2rpn_atc_reward": 50.806785583496094
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 306.376953125,
+        "l2rpn_atc_reward": 50.767887115478516
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 307.7734375,
+        "l2rpn_atc_reward": 50.7255859375
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 305.72998046875,
+        "l2rpn_atc_reward": 50.77184295654297
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 306.4990234375,
+        "l2rpn_atc_reward": 50.7569580078125
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 303.03955078125,
+        "l2rpn_atc_reward": 50.83623123168945
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 306.58447265625,
+        "l2rpn_atc_reward": 50.762535095214844
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 306.6552734375,
+        "l2rpn_atc_reward": 50.73623275756836
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 305.7763671875,
+        "l2rpn_atc_reward": 50.75506591796875
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 306.982421875,
+        "l2rpn_atc_reward": 50.71415328979492
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 310.830078125,
+        "l2rpn_atc_reward": 50.64863586425781
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 313.41064453125,
+        "l2rpn_atc_reward": 50.59502410888672
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 311.74560546875,
+        "l2rpn_atc_reward": 50.64957046508789
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 312.0263671875,
+        "l2rpn_atc_reward": 50.65865707397461
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 310.17578125,
+        "l2rpn_atc_reward": 50.709896087646484
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 313.1494140625,
+        "l2rpn_atc_reward": 50.64236831665039
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 309.560546875,
+        "l2rpn_atc_reward": 50.71895217895508
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 312.62451171875,
+        "l2rpn_atc_reward": 50.67839813232422
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 313.89892578125,
+        "l2rpn_atc_reward": 50.64828109741211
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 313.37158203125,
+        "l2rpn_atc_reward": 50.67728042602539
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 312.14111328125,
+        "l2rpn_atc_reward": 50.69745635986328
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 311.6650390625,
+        "l2rpn_atc_reward": 50.74313735961914
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 314.6435546875,
+        "l2rpn_atc_reward": 50.670650482177734
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 312.01904296875,
+        "l2rpn_atc_reward": 50.74810791015625
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 312.20947265625,
+        "l2rpn_atc_reward": 50.712615966796875
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 312.7001953125,
+        "l2rpn_atc_reward": 50.72638702392578
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 313.14208984375,
+        "l2rpn_atc_reward": 50.7377815246582
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 310.79345703125,
+        "l2rpn_atc_reward": 50.798336029052734
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 312.88330078125,
+        "l2rpn_atc_reward": 50.739891052246094
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 312.31201171875,
+        "l2rpn_atc_reward": 50.7513427734375
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 310.27099609375,
+        "l2rpn_atc_reward": 50.8194694519043
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 313.046875,
+        "l2rpn_atc_reward": 50.74728775024414
+    },
+    {
+        "MinMargin_reward": 0.07000000029802322,
+        "grid_operation_cost": 311.00830078125,
+        "l2rpn_atc_reward": 50.78290939331055
+    },
+    {
+        "MinMargin_reward": 0.07000000029802322,
+        "grid_operation_cost": 309.71923828125,
+        "l2rpn_atc_reward": 50.80963897705078
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 310.95947265625,
+        "l2rpn_atc_reward": 50.77676010131836
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 306.82373046875,
+        "l2rpn_atc_reward": 50.861289978027344
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 308.6328125,
+        "l2rpn_atc_reward": 50.84013366699219
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 309.02587890625,
+        "l2rpn_atc_reward": 50.813568115234375
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 304.10400390625,
+        "l2rpn_atc_reward": 50.941925048828125
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 303.935546875,
+        "l2rpn_atc_reward": 50.95226287841797
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 306.2109375,
+        "l2rpn_atc_reward": 50.88958740234375
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 302.33642578125,
+        "l2rpn_atc_reward": 50.95576095581055
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 300.2392578125,
+        "l2rpn_atc_reward": 51.00872802734375
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 296.7236328125,
+        "l2rpn_atc_reward": 51.10932922363281
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 291.50634765625,
+        "l2rpn_atc_reward": 51.22651290893555
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 295.5126953125,
+        "l2rpn_atc_reward": 51.135047912597656
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 295.712890625,
+        "l2rpn_atc_reward": 51.102848052978516
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 289.1015625,
+        "l2rpn_atc_reward": 51.23878860473633
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 283.837890625,
+        "l2rpn_atc_reward": 51.37003707885742
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 284.384765625,
+        "l2rpn_atc_reward": 51.3284912109375
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 281.08154296875,
+        "l2rpn_atc_reward": 51.401424407958984
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 274.28466796875,
+        "l2rpn_atc_reward": 51.586997985839844
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 272.90283203125,
+        "l2rpn_atc_reward": 51.60264205932617
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 266.8994140625,
+        "l2rpn_atc_reward": 51.728389739990234
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 265.01708984375,
+        "l2rpn_atc_reward": 51.78293228149414
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 260.9228515625,
+        "l2rpn_atc_reward": 51.87213897705078
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 256.6845703125,
+        "l2rpn_atc_reward": 51.94707489013672
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 252.3876953125,
+        "l2rpn_atc_reward": 52.01168441772461
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 247.97119140625,
+        "l2rpn_atc_reward": 52.100372314453125
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 246.552734375,
+        "l2rpn_atc_reward": 52.10746765136719
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 242.92724609375,
+        "l2rpn_atc_reward": 52.20289993286133
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 238.6376953125,
+        "l2rpn_atc_reward": 52.261775970458984
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 235.00244140625,
+        "l2rpn_atc_reward": 52.34062194824219
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 230.88623046875,
+        "l2rpn_atc_reward": 52.40125274658203
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 231.19873046875,
+        "l2rpn_atc_reward": 52.38209533691406
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 227.53662109375,
+        "l2rpn_atc_reward": 52.47492599487305
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 225.146484375,
+        "l2rpn_atc_reward": 52.51551818847656
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 222.4267578125,
+        "l2rpn_atc_reward": 52.569759368896484
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 218.8720703125,
+        "l2rpn_atc_reward": 52.6236686706543
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 218.4423828125,
+        "l2rpn_atc_reward": 52.624855041503906
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 216.0888671875,
+        "l2rpn_atc_reward": 52.65410614013672
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 214.873046875,
+        "l2rpn_atc_reward": 52.70020294189453
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 217.47802734375,
+        "l2rpn_atc_reward": 52.61582946777344
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 215.91552734375,
+        "l2rpn_atc_reward": 52.66531753540039
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 214.89990234375,
+        "l2rpn_atc_reward": 52.67607498168945
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 214.2822265625,
+        "l2rpn_atc_reward": 52.64822006225586
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 211.9580078125,
+        "l2rpn_atc_reward": 52.6994743347168
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 209.12353515625,
+        "l2rpn_atc_reward": 52.75550842285156
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 204.4287109375,
+        "l2rpn_atc_reward": 52.86862564086914
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 201.7236328125,
+        "l2rpn_atc_reward": 52.93722152709961
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 201.806640625,
+        "l2rpn_atc_reward": 52.91380310058594
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 202.36328125,
+        "l2rpn_atc_reward": 52.90377426147461
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 198.72802734375,
+        "l2rpn_atc_reward": 52.985504150390625
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 198.11279296875,
+        "l2rpn_atc_reward": 53.013275146484375
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 197.07763671875,
+        "l2rpn_atc_reward": 53.04043960571289
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 198.7548828125,
+        "l2rpn_atc_reward": 53.00222396850586
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 191.5771484375,
+        "l2rpn_atc_reward": 53.140281677246094
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 190.3369140625,
+        "l2rpn_atc_reward": 53.14793395996094
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 191.29638671875,
+        "l2rpn_atc_reward": 53.15260314941406
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 187.62451171875,
+        "l2rpn_atc_reward": 53.24198913574219
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 181.86279296875,
+        "l2rpn_atc_reward": 53.34422302246094
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 183.76708984375,
+        "l2rpn_atc_reward": 53.29133224487305
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 184.88525390625,
+        "l2rpn_atc_reward": 53.26889419555664
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 180.77392578125,
+        "l2rpn_atc_reward": 53.3419303894043
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 178.64501953125,
+        "l2rpn_atc_reward": 53.409645080566406
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 177.68310546875,
+        "l2rpn_atc_reward": 53.418243408203125
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 172.451171875,
+        "l2rpn_atc_reward": 53.54378128051758
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 175.6884765625,
+        "l2rpn_atc_reward": 53.44147872924805
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 171.5380859375,
+        "l2rpn_atc_reward": 53.51246643066406
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 171.259765625,
+        "l2rpn_atc_reward": 53.52602005004883
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 168.30322265625,
+        "l2rpn_atc_reward": 53.5897331237793
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 171.01806640625,
+        "l2rpn_atc_reward": 53.53023147583008
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 170.05859375,
+        "l2rpn_atc_reward": 53.56842803955078
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 167.69287109375,
+        "l2rpn_atc_reward": 53.622901916503906
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 169.87548828125,
+        "l2rpn_atc_reward": 53.551883697509766
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 170.71533203125,
+        "l2rpn_atc_reward": 53.56221008300781
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 169.326171875,
+        "l2rpn_atc_reward": 53.591270446777344
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 168.49609375,
+        "l2rpn_atc_reward": 53.61902618408203
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 168.42041015625,
+        "l2rpn_atc_reward": 53.61228942871094
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 163.3349609375,
+        "l2rpn_atc_reward": 53.72705078125
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 164.8583984375,
+        "l2rpn_atc_reward": 53.697757720947266
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 163.45947265625,
+        "l2rpn_atc_reward": 53.721275329589844
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 160.9326171875,
+        "l2rpn_atc_reward": 53.752960205078125
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 160.1318359375,
+        "l2rpn_atc_reward": 53.757755279541016
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 162.1142578125,
+        "l2rpn_atc_reward": 53.73576354980469
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 163.2080078125,
+        "l2rpn_atc_reward": 53.71805191040039
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 161.42578125,
+        "l2rpn_atc_reward": 53.74309539794922
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 160.01708984375,
+        "l2rpn_atc_reward": 53.77958679199219
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 160.94482421875,
+        "l2rpn_atc_reward": 53.780601501464844
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 158.37158203125,
+        "l2rpn_atc_reward": 53.83481979370117
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 157.33154296875,
+        "l2rpn_atc_reward": 53.84215545654297
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 155.654296875,
+        "l2rpn_atc_reward": 53.87318801879883
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 156.17431640625,
+        "l2rpn_atc_reward": 53.85361099243164
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 154.1796875,
+        "l2rpn_atc_reward": 53.8878288269043
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 154.9609375,
+        "l2rpn_atc_reward": 53.8862419128418
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 150.26123046875,
+        "l2rpn_atc_reward": 53.93739318847656
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 151.6650390625,
+        "l2rpn_atc_reward": 53.9102897644043
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 148.08837890625,
+        "l2rpn_atc_reward": 53.999969482421875
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 150.46630859375,
+        "l2rpn_atc_reward": 53.94563293457031
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 148.7353515625,
+        "l2rpn_atc_reward": 54.004554748535156
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 147.0849609375,
+        "l2rpn_atc_reward": 54.0135498046875
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 144.51904296875,
+        "l2rpn_atc_reward": 54.08040237426758
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 145.27099609375,
+        "l2rpn_atc_reward": 54.0460205078125
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 144.482421875,
+        "l2rpn_atc_reward": 54.09261703491211
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 142.63916015625,
+        "l2rpn_atc_reward": 54.11772918701172
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 143.17138671875,
+        "l2rpn_atc_reward": 54.09955978393555
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 143.3251953125,
+        "l2rpn_atc_reward": 54.11547088623047
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 144.69970703125,
+        "l2rpn_atc_reward": 54.06629943847656
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 145.74462890625,
+        "l2rpn_atc_reward": 54.03023910522461
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 145.1611328125,
+        "l2rpn_atc_reward": 54.03056335449219
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 145.634765625,
+        "l2rpn_atc_reward": 54.045860290527344
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 145.09765625,
+        "l2rpn_atc_reward": 54.054840087890625
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 144.130859375,
+        "l2rpn_atc_reward": 54.086997985839844
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 145.5126953125,
+        "l2rpn_atc_reward": 54.06360626220703
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 143.91357421875,
+        "l2rpn_atc_reward": 54.121944427490234
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 143.26904296875,
+        "l2rpn_atc_reward": 54.13880157470703
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 143.48388671875,
+        "l2rpn_atc_reward": 54.126708984375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 145.57861328125,
+        "l2rpn_atc_reward": 54.094215393066406
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 144.5703125,
+        "l2rpn_atc_reward": 54.12095642089844
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 144.3310546875,
+        "l2rpn_atc_reward": 54.128509521484375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 148.046875,
+        "l2rpn_atc_reward": 54.07089614868164
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 147.666015625,
+        "l2rpn_atc_reward": 54.07736587524414
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 151.40869140625,
+        "l2rpn_atc_reward": 54.05255889892578
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 154.98779296875,
+        "l2rpn_atc_reward": 53.987953186035156
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 154.58251953125,
+        "l2rpn_atc_reward": 54.00382995605469
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 154.4677734375,
+        "l2rpn_atc_reward": 54.00807571411133
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 155.38818359375,
+        "l2rpn_atc_reward": 53.98966979980469
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 155.80322265625,
+        "l2rpn_atc_reward": 53.96626281738281
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 155.54931640625,
+        "l2rpn_atc_reward": 53.97542190551758
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 157.2705078125,
+        "l2rpn_atc_reward": 53.963748931884766
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 156.28173828125,
+        "l2rpn_atc_reward": 53.977622985839844
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 155.75439453125,
+        "l2rpn_atc_reward": 54.01432800292969
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 155.42724609375,
+        "l2rpn_atc_reward": 53.99270248413086
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 156.41845703125,
+        "l2rpn_atc_reward": 53.985679626464844
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 157.35107421875,
+        "l2rpn_atc_reward": 53.9779052734375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 157.86376953125,
+        "l2rpn_atc_reward": 53.96377944946289
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 160.0,
+        "l2rpn_atc_reward": 53.9232177734375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 162.51220703125,
+        "l2rpn_atc_reward": 53.87022399902344
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 166.37451171875,
+        "l2rpn_atc_reward": 53.78664779663086
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 166.11572265625,
+        "l2rpn_atc_reward": 53.831031799316406
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 170.205078125,
+        "l2rpn_atc_reward": 53.720184326171875
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 173.1298828125,
+        "l2rpn_atc_reward": 53.66840362548828
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 175.93505859375,
+        "l2rpn_atc_reward": 53.625179290771484
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 180.6298828125,
+        "l2rpn_atc_reward": 53.51790237426758
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 183.1982421875,
+        "l2rpn_atc_reward": 53.470096588134766
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 192.81982421875,
+        "l2rpn_atc_reward": 53.25203323364258
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 192.5927734375,
+        "l2rpn_atc_reward": 53.27729034423828
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 195.13671875,
+        "l2rpn_atc_reward": 53.19453048706055
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 196.6845703125,
+        "l2rpn_atc_reward": 53.167232513427734
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 203.4130859375,
+        "l2rpn_atc_reward": 53.032752990722656
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 208.9501953125,
+        "l2rpn_atc_reward": 52.8874397277832
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 214.55810546875,
+        "l2rpn_atc_reward": 52.75040054321289
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 219.54345703125,
+        "l2rpn_atc_reward": 52.64464569091797
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 223.86962890625,
+        "l2rpn_atc_reward": 52.5278205871582
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 232.45849609375,
+        "l2rpn_atc_reward": 52.3481330871582
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 232.96142578125,
+        "l2rpn_atc_reward": 52.35581588745117
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 241.0986328125,
+        "l2rpn_atc_reward": 52.149757385253906
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 248.6962890625,
+        "l2rpn_atc_reward": 51.97745895385742
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 257.138671875,
+        "l2rpn_atc_reward": 51.77275085449219
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 263.06884765625,
+        "l2rpn_atc_reward": 51.645450592041016
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 273.65966796875,
+        "l2rpn_atc_reward": 51.41050338745117
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 281.337890625,
+        "l2rpn_atc_reward": 51.20708465576172
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 291.15478515625,
+        "l2rpn_atc_reward": 50.990577697753906
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 296.55029296875,
+        "l2rpn_atc_reward": 50.85993194580078
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 304.8046875,
+        "l2rpn_atc_reward": 50.66619110107422
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 312.43896484375,
+        "l2rpn_atc_reward": 50.4986457824707
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 323.427734375,
+        "l2rpn_atc_reward": 50.221641540527344
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 322.08740234375,
+        "l2rpn_atc_reward": 50.27146530151367
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 331.59423828125,
+        "l2rpn_atc_reward": 50.06315612792969
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 338.51806640625,
+        "l2rpn_atc_reward": 49.876976013183594
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 339.5263671875,
+        "l2rpn_atc_reward": 49.81521224975586
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 346.77734375,
+        "l2rpn_atc_reward": 49.64383316040039
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 353.22265625,
+        "l2rpn_atc_reward": 49.529727935791016
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 353.88671875,
+        "l2rpn_atc_reward": 49.52506637573242
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 353.330078125,
+        "l2rpn_atc_reward": 49.54894256591797
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 363.26904296875,
+        "l2rpn_atc_reward": 49.310325622558594
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 365.46142578125,
+        "l2rpn_atc_reward": 49.258724212646484
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 366.2353515625,
+        "l2rpn_atc_reward": 49.250858306884766
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 373.466796875,
+        "l2rpn_atc_reward": 49.08625030517578
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 374.65576171875,
+        "l2rpn_atc_reward": 49.08195114135742
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 379.42626953125,
+        "l2rpn_atc_reward": 48.94672775268555
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 379.0673828125,
+        "l2rpn_atc_reward": 49.00246810913086
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 381.55029296875,
+        "l2rpn_atc_reward": 48.91960906982422
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 384.0087890625,
+        "l2rpn_atc_reward": 48.901832580566406
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 384.833984375,
+        "l2rpn_atc_reward": 48.83534240722656
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 383.1201171875,
+        "l2rpn_atc_reward": 48.896331787109375
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 380.8837890625,
+        "l2rpn_atc_reward": 48.97188186645508
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 377.67333984375,
+        "l2rpn_atc_reward": 49.05467987060547
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 373.30322265625,
+        "l2rpn_atc_reward": 49.174442291259766
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 373.01025390625,
+        "l2rpn_atc_reward": 49.168888092041016
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 371.55029296875,
+        "l2rpn_atc_reward": 49.219669342041016
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 362.79541015625,
+        "l2rpn_atc_reward": 49.428863525390625
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 355.16845703125,
+        "l2rpn_atc_reward": 49.619266510009766
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 359.47021484375,
+        "l2rpn_atc_reward": 49.527809143066406
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 347.9052734375,
+        "l2rpn_atc_reward": 49.79689025878906
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 351.650390625,
+        "l2rpn_atc_reward": 49.70036315917969
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 342.09228515625,
+        "l2rpn_atc_reward": 49.915504455566406
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 342.95654296875,
+        "l2rpn_atc_reward": 49.8918571472168
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 337.03125,
+        "l2rpn_atc_reward": 50.03933334350586
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 336.826171875,
+        "l2rpn_atc_reward": 50.02444839477539
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 326.21826171875,
+        "l2rpn_atc_reward": 50.2633171081543
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 323.681640625,
+        "l2rpn_atc_reward": 50.33291244506836
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 319.22119140625,
+        "l2rpn_atc_reward": 50.40775680541992
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 318.52294921875,
+        "l2rpn_atc_reward": 50.46127700805664
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 308.857421875,
+        "l2rpn_atc_reward": 50.654972076416016
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 306.33544921875,
+        "l2rpn_atc_reward": 50.73775100708008
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 307.85888671875,
+        "l2rpn_atc_reward": 50.69337463378906
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 301.2353515625,
+        "l2rpn_atc_reward": 50.857112884521484
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 300.3515625,
+        "l2rpn_atc_reward": 50.86973571777344
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 298.33984375,
+        "l2rpn_atc_reward": 50.922630310058594
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 292.392578125,
+        "l2rpn_atc_reward": 51.046939849853516
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 289.892578125,
+        "l2rpn_atc_reward": 51.073570251464844
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 283.0419921875,
+        "l2rpn_atc_reward": 51.21763229370117
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 285.7470703125,
+        "l2rpn_atc_reward": 51.20079803466797
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 282.03369140625,
+        "l2rpn_atc_reward": 51.26177215576172
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 275.68115234375,
+        "l2rpn_atc_reward": 51.40900421142578
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 273.8623046875,
+        "l2rpn_atc_reward": 51.45707702636719
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 273.41064453125,
+        "l2rpn_atc_reward": 51.45908737182617
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 269.13818359375,
+        "l2rpn_atc_reward": 51.56439208984375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 270.78125,
+        "l2rpn_atc_reward": 51.5219612121582
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 267.9150390625,
+        "l2rpn_atc_reward": 51.595096588134766
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 271.2060546875,
+        "l2rpn_atc_reward": 51.53543472290039
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 269.82421875,
+        "l2rpn_atc_reward": 51.52460861206055
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 268.955078125,
+        "l2rpn_atc_reward": 51.55503463745117
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 276.85546875,
+        "l2rpn_atc_reward": 51.38978576660156
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 279.19189453125,
+        "l2rpn_atc_reward": 51.329715728759766
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 281.4306640625,
+        "l2rpn_atc_reward": 51.30569839477539
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 283.603515625,
+        "l2rpn_atc_reward": 51.23869705200195
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 287.40966796875,
+        "l2rpn_atc_reward": 51.164634704589844
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 292.52197265625,
+        "l2rpn_atc_reward": 51.01228713989258
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 293.9697265625,
+        "l2rpn_atc_reward": 51.010189056396484
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 290.21240234375,
+        "l2rpn_atc_reward": 51.062015533447266
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 292.18505859375,
+        "l2rpn_atc_reward": 51.038612365722656
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 289.3603515625,
+        "l2rpn_atc_reward": 51.09065628051758
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 286.88232421875,
+        "l2rpn_atc_reward": 51.15908432006836
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 285.8544921875,
+        "l2rpn_atc_reward": 51.1767578125
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 282.88818359375,
+        "l2rpn_atc_reward": 51.224853515625
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 284.1357421875,
+        "l2rpn_atc_reward": 51.2137565612793
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 284.47998046875,
+        "l2rpn_atc_reward": 51.18751907348633
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 284.57275390625,
+        "l2rpn_atc_reward": 51.178375244140625
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 286.4306640625,
+        "l2rpn_atc_reward": 51.143733978271484
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 286.31591796875,
+        "l2rpn_atc_reward": 51.15864181518555
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 286.1474609375,
+        "l2rpn_atc_reward": 51.162879943847656
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 287.45849609375,
+        "l2rpn_atc_reward": 51.11589813232422
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 282.265625,
+        "l2rpn_atc_reward": 51.26430892944336
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 275.02197265625,
+        "l2rpn_atc_reward": 51.42216491699219
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 272.25830078125,
+        "l2rpn_atc_reward": 51.47889709472656
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 263.740234375,
+        "l2rpn_atc_reward": 51.66670227050781
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 261.0009765625,
+        "l2rpn_atc_reward": 51.734703063964844
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 255.63232421875,
+        "l2rpn_atc_reward": 51.85295867919922
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 253.75244140625,
+        "l2rpn_atc_reward": 51.912086486816406
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 246.02294921875,
+        "l2rpn_atc_reward": 52.08564758300781
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 244.2431640625,
+        "l2rpn_atc_reward": 52.125431060791016
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 243.34228515625,
+        "l2rpn_atc_reward": 52.15906524658203
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 243.623046875,
+        "l2rpn_atc_reward": 52.14455795288086
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 241.0888671875,
+        "l2rpn_atc_reward": 52.21095275878906
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 236.6845703125,
+        "l2rpn_atc_reward": 52.31052017211914
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 235.68115234375,
+        "l2rpn_atc_reward": 52.33197021484375
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 237.8662109375,
+        "l2rpn_atc_reward": 52.3065185546875
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 234.111328125,
+        "l2rpn_atc_reward": 52.351741790771484
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 235.2587890625,
+        "l2rpn_atc_reward": 52.341793060302734
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 234.16259765625,
+        "l2rpn_atc_reward": 52.372406005859375
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 232.4658203125,
+        "l2rpn_atc_reward": 52.4015007019043
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 232.0751953125,
+        "l2rpn_atc_reward": 52.408016204833984
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 229.8681640625,
+        "l2rpn_atc_reward": 52.4763069152832
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 230.96435546875,
+        "l2rpn_atc_reward": 52.44077682495117
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 233.64501953125,
+        "l2rpn_atc_reward": 52.38022994995117
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 231.1474609375,
+        "l2rpn_atc_reward": 52.44126892089844
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 232.22412109375,
+        "l2rpn_atc_reward": 52.405738830566406
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 230.859375,
+        "l2rpn_atc_reward": 52.45334243774414
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 229.86572265625,
+        "l2rpn_atc_reward": 52.45430374145508
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 231.181640625,
+        "l2rpn_atc_reward": 52.448482513427734
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 229.98291015625,
+        "l2rpn_atc_reward": 52.46082305908203
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 228.9306640625,
+        "l2rpn_atc_reward": 52.49971389770508
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 230.73974609375,
+        "l2rpn_atc_reward": 52.47166442871094
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 230.78125,
+        "l2rpn_atc_reward": 52.45485305786133
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 228.37646484375,
+        "l2rpn_atc_reward": 52.545135498046875
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 229.53369140625,
+        "l2rpn_atc_reward": 52.50556564331055
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 228.37646484375,
+        "l2rpn_atc_reward": 52.55653381347656
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 228.30322265625,
+        "l2rpn_atc_reward": 52.55473709106445
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 230.83984375,
+        "l2rpn_atc_reward": 52.47728729248047
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 226.17431640625,
+        "l2rpn_atc_reward": 52.60014343261719
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 226.28662109375,
+        "l2rpn_atc_reward": 52.59661102294922
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 225.2734375,
+        "l2rpn_atc_reward": 52.623653411865234
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 225.98876953125,
+        "l2rpn_atc_reward": 52.62141418457031
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 227.724609375,
+        "l2rpn_atc_reward": 52.612388610839844
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 228.330078125,
+        "l2rpn_atc_reward": 52.580047607421875
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 229.072265625,
+        "l2rpn_atc_reward": 52.57493591308594
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 229.8876953125,
+        "l2rpn_atc_reward": 52.550743103027344
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 228.62548828125,
+        "l2rpn_atc_reward": 52.595237731933594
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 228.77685546875,
+        "l2rpn_atc_reward": 52.59687042236328
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 230.75927734375,
+        "l2rpn_atc_reward": 52.550445556640625
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 230.4345703125,
+        "l2rpn_atc_reward": 52.551429748535156
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 230.89599609375,
+        "l2rpn_atc_reward": 52.54943084716797
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 229.5361328125,
+        "l2rpn_atc_reward": 52.58138656616211
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 230.40283203125,
+        "l2rpn_atc_reward": 52.54607009887695
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 230.615234375,
+        "l2rpn_atc_reward": 52.549652099609375
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 231.64306640625,
+        "l2rpn_atc_reward": 52.53619384765625
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 227.3681640625,
+        "l2rpn_atc_reward": 52.62023162841797
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 227.5244140625,
+        "l2rpn_atc_reward": 52.61380386352539
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 222.66845703125,
+        "l2rpn_atc_reward": 52.72848892211914
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 224.71435546875,
+        "l2rpn_atc_reward": 52.682228088378906
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 223.5205078125,
+        "l2rpn_atc_reward": 52.69074249267578
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 224.7900390625,
+        "l2rpn_atc_reward": 52.64542007446289
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 221.3671875,
+        "l2rpn_atc_reward": 52.703243255615234
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 220.64697265625,
+        "l2rpn_atc_reward": 52.70984649658203
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 215.9423828125,
+        "l2rpn_atc_reward": 52.81764221191406
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 212.2802734375,
+        "l2rpn_atc_reward": 52.88631820678711
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 210.1708984375,
+        "l2rpn_atc_reward": 52.927032470703125
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 207.64404296875,
+        "l2rpn_atc_reward": 52.95286178588867
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 205.927734375,
+        "l2rpn_atc_reward": 53.00157165527344
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 203.62548828125,
+        "l2rpn_atc_reward": 53.05381774902344
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 198.447265625,
+        "l2rpn_atc_reward": 53.15378952026367
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 197.93212890625,
+        "l2rpn_atc_reward": 53.15833282470703
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 192.392578125,
+        "l2rpn_atc_reward": 53.25799560546875
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 188.2080078125,
+        "l2rpn_atc_reward": 53.281105041503906
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 190.63720703125,
+        "l2rpn_atc_reward": 53.288028717041016
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 188.04443359375,
+        "l2rpn_atc_reward": 53.324222564697266
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 185.48583984375,
+        "l2rpn_atc_reward": 53.386531829833984
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 185.60546875,
+        "l2rpn_atc_reward": 53.369571685791016
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 183.2421875,
+        "l2rpn_atc_reward": 53.39414978027344
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 182.18017578125,
+        "l2rpn_atc_reward": 53.4172248840332
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 181.81396484375,
+        "l2rpn_atc_reward": 53.4207878112793
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 181.6552734375,
+        "l2rpn_atc_reward": 53.41925811767578
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 182.19482421875,
+        "l2rpn_atc_reward": 53.39530563354492
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 179.34814453125,
+        "l2rpn_atc_reward": 53.424068450927734
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 177.30224609375,
+        "l2rpn_atc_reward": 53.46029281616211
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 178.28369140625,
+        "l2rpn_atc_reward": 53.43745040893555
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 178.12255859375,
+        "l2rpn_atc_reward": 53.43122100830078
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 177.69287109375,
+        "l2rpn_atc_reward": 53.43860626220703
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 178.74755859375,
+        "l2rpn_atc_reward": 53.42765426635742
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 177.07763671875,
+        "l2rpn_atc_reward": 53.44453430175781
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 175.50048828125,
+        "l2rpn_atc_reward": 53.457374572753906
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 178.86474609375,
+        "l2rpn_atc_reward": 53.38089370727539
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 176.845703125,
+        "l2rpn_atc_reward": 53.41511154174805
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 177.81005859375,
+        "l2rpn_atc_reward": 53.40872573852539
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 173.8720703125,
+        "l2rpn_atc_reward": 53.495765686035156
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 173.193359375,
+        "l2rpn_atc_reward": 53.49408721923828
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 170.888671875,
+        "l2rpn_atc_reward": 53.52553176879883
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 171.6552734375,
+        "l2rpn_atc_reward": 53.48295593261719
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 170.2587890625,
+        "l2rpn_atc_reward": 53.525482177734375
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 168.3056640625,
+        "l2rpn_atc_reward": 53.54330825805664
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 164.69482421875,
+        "l2rpn_atc_reward": 53.634857177734375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 164.70947265625,
+        "l2rpn_atc_reward": 53.59867477416992
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 163.7744140625,
+        "l2rpn_atc_reward": 53.6219482421875
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 162.9443359375,
+        "l2rpn_atc_reward": 53.62983322143555
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 161.17919921875,
+        "l2rpn_atc_reward": 53.67451095581055
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 160.10498046875,
+        "l2rpn_atc_reward": 53.67437744140625
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 160.9130859375,
+        "l2rpn_atc_reward": 53.658756256103516
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 161.8408203125,
+        "l2rpn_atc_reward": 53.62495803833008
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 161.279296875,
+        "l2rpn_atc_reward": 53.64440155029297
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 162.57080078125,
+        "l2rpn_atc_reward": 53.60323715209961
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 160.7373046875,
+        "l2rpn_atc_reward": 53.648460388183594
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 162.1923828125,
+        "l2rpn_atc_reward": 53.59296798706055
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 164.052734375,
+        "l2rpn_atc_reward": 53.54790115356445
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 161.73828125,
+        "l2rpn_atc_reward": 53.627960205078125
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 164.04296875,
+        "l2rpn_atc_reward": 53.558250427246094
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 163.2861328125,
+        "l2rpn_atc_reward": 53.590476989746094
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 165.09033203125,
+        "l2rpn_atc_reward": 53.53489303588867
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 166.21826171875,
+        "l2rpn_atc_reward": 53.50016403198242
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 167.109375,
+        "l2rpn_atc_reward": 53.510765075683594
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 165.7421875,
+        "l2rpn_atc_reward": 53.5244026184082
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 165.2880859375,
+        "l2rpn_atc_reward": 53.51688003540039
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 163.17626953125,
+        "l2rpn_atc_reward": 53.553489685058594
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 163.4912109375,
+        "l2rpn_atc_reward": 53.57719039916992
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 164.3798828125,
+        "l2rpn_atc_reward": 53.56447982788086
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 162.2998046875,
+        "l2rpn_atc_reward": 53.56974411010742
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 162.373046875,
+        "l2rpn_atc_reward": 53.58954620361328
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 160.66650390625,
+        "l2rpn_atc_reward": 53.61513900756836
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 160.60546875,
+        "l2rpn_atc_reward": 53.614044189453125
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 159.0869140625,
+        "l2rpn_atc_reward": 53.657344818115234
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 160.24658203125,
+        "l2rpn_atc_reward": 53.59980773925781
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 161.67724609375,
+        "l2rpn_atc_reward": 53.59266662597656
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 159.11376953125,
+        "l2rpn_atc_reward": 53.654537200927734
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 156.84814453125,
+        "l2rpn_atc_reward": 53.68700408935547
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 157.8125,
+        "l2rpn_atc_reward": 53.65986251831055
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 157.3388671875,
+        "l2rpn_atc_reward": 53.68764877319336
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 156.89453125,
+        "l2rpn_atc_reward": 53.66382598876953
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 155.9130859375,
+        "l2rpn_atc_reward": 53.69784927368164
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 156.96533203125,
+        "l2rpn_atc_reward": 53.6744499206543
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 153.70361328125,
+        "l2rpn_atc_reward": 53.72144317626953
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 157.43408203125,
+        "l2rpn_atc_reward": 53.66326904296875
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 156.32568359375,
+        "l2rpn_atc_reward": 53.66643524169922
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 155.6005859375,
+        "l2rpn_atc_reward": 53.69733810424805
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 154.7802734375,
+        "l2rpn_atc_reward": 53.708717346191406
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 156.0791015625,
+        "l2rpn_atc_reward": 53.6910514831543
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 157.42919921875,
+        "l2rpn_atc_reward": 53.66850662231445
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 153.27392578125,
+        "l2rpn_atc_reward": 53.735782623291016
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 152.744140625,
+        "l2rpn_atc_reward": 53.762542724609375
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 155.2197265625,
+        "l2rpn_atc_reward": 53.71226501464844
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 154.84130859375,
+        "l2rpn_atc_reward": 53.72394561767578
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 154.38720703125,
+        "l2rpn_atc_reward": 53.727596282958984
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 151.98974609375,
+        "l2rpn_atc_reward": 53.78386306762695
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 153.11279296875,
+        "l2rpn_atc_reward": 53.747196197509766
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 154.3359375,
+        "l2rpn_atc_reward": 53.70957565307617
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 155.19287109375,
+        "l2rpn_atc_reward": 53.67656707763672
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 154.2431640625,
+        "l2rpn_atc_reward": 53.71859359741211
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 152.81982421875,
+        "l2rpn_atc_reward": 53.72687530517578
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 166.23779296875,
+        "l2rpn_atc_reward": 53.613922119140625
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 166.2451171875,
+        "l2rpn_atc_reward": 53.60531997680664
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 164.0087890625,
+        "l2rpn_atc_reward": 53.65888214111328
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 165.25146484375,
+        "l2rpn_atc_reward": 53.66866683959961
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 167.451171875,
+        "l2rpn_atc_reward": 53.61003875732422
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 165.97900390625,
+        "l2rpn_atc_reward": 53.63791275024414
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 164.4677734375,
+        "l2rpn_atc_reward": 53.6946907043457
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 169.9072265625,
+        "l2rpn_atc_reward": 53.56353759765625
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 169.07470703125,
+        "l2rpn_atc_reward": 53.5893440246582
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 173.046875,
+        "l2rpn_atc_reward": 53.5356330871582
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 173.2275390625,
+        "l2rpn_atc_reward": 53.51253890991211
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 176.7822265625,
+        "l2rpn_atc_reward": 53.455650329589844
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 177.80517578125,
+        "l2rpn_atc_reward": 53.42543029785156
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 177.61474609375,
+        "l2rpn_atc_reward": 53.440494537353516
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 182.29248046875,
+        "l2rpn_atc_reward": 53.32756805419922
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 180.05615234375,
+        "l2rpn_atc_reward": 53.373268127441406
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 185.37841796875,
+        "l2rpn_atc_reward": 53.267860412597656
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 181.9091796875,
+        "l2rpn_atc_reward": 53.344215393066406
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 184.95361328125,
+        "l2rpn_atc_reward": 53.2747917175293
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 182.92724609375,
+        "l2rpn_atc_reward": 53.33333969116211
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 187.548828125,
+        "l2rpn_atc_reward": 53.23553466796875
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 184.9267578125,
+        "l2rpn_atc_reward": 53.315792083740234
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 186.91162109375,
+        "l2rpn_atc_reward": 53.270851135253906
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 188.00048828125,
+        "l2rpn_atc_reward": 53.24806213378906
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 185.44677734375,
+        "l2rpn_atc_reward": 53.33863830566406
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 189.89990234375,
+        "l2rpn_atc_reward": 53.22997283935547
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 189.4677734375,
+        "l2rpn_atc_reward": 53.232906341552734
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 193.8525390625,
+        "l2rpn_atc_reward": 53.1341438293457
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 192.49755859375,
+        "l2rpn_atc_reward": 53.169464111328125
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 192.4609375,
+        "l2rpn_atc_reward": 53.181766510009766
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 193.01513671875,
+        "l2rpn_atc_reward": 53.153053283691406
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 193.7646484375,
+        "l2rpn_atc_reward": 53.16435241699219
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 197.59033203125,
+        "l2rpn_atc_reward": 53.070159912109375
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 198.89404296875,
+        "l2rpn_atc_reward": 53.06889343261719
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 202.0068359375,
+        "l2rpn_atc_reward": 53.00355911254883
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 202.470703125,
+        "l2rpn_atc_reward": 52.97229766845703
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 204.86328125,
+        "l2rpn_atc_reward": 52.93022918701172
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 204.06982421875,
+        "l2rpn_atc_reward": 52.955726623535156
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 211.787109375,
+        "l2rpn_atc_reward": 52.79090881347656
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 211.87744140625,
+        "l2rpn_atc_reward": 52.797611236572266
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 212.412109375,
+        "l2rpn_atc_reward": 52.75591278076172
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 219.36767578125,
+        "l2rpn_atc_reward": 52.641380310058594
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 221.15966796875,
+        "l2rpn_atc_reward": 52.62021255493164
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 230.05859375,
+        "l2rpn_atc_reward": 52.41217041015625
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 226.38427734375,
+        "l2rpn_atc_reward": 52.4940299987793
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 235.37841796875,
+        "l2rpn_atc_reward": 52.30952835083008
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 243.38623046875,
+        "l2rpn_atc_reward": 52.15681457519531
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 247.72216796875,
+        "l2rpn_atc_reward": 52.05059051513672
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 242.48291015625,
+        "l2rpn_atc_reward": 52.03224182128906
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 249.3017578125,
+        "l2rpn_atc_reward": 51.86739730834961
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 260.537109375,
+        "l2rpn_atc_reward": 51.65379333496094
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 267.83935546875,
+        "l2rpn_atc_reward": 51.45216751098633
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 273.30078125,
+        "l2rpn_atc_reward": 51.32318115234375
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 289.21875,
+        "l2rpn_atc_reward": 50.95413589477539
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 299.2822265625,
+        "l2rpn_atc_reward": 50.765106201171875
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 306.52099609375,
+        "l2rpn_atc_reward": 50.5728645324707
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 310.0537109375,
+        "l2rpn_atc_reward": 50.49180221557617
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 324.90234375,
+        "l2rpn_atc_reward": 50.15409851074219
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 331.73583984375,
+        "l2rpn_atc_reward": 50.01508331298828
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 338.02001953125,
+        "l2rpn_atc_reward": 49.83885955810547
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 352.509765625,
+        "l2rpn_atc_reward": 49.528812408447266
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 363.779296875,
+        "l2rpn_atc_reward": 49.21886444091797
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 363.10546875,
+        "l2rpn_atc_reward": 49.2717399597168
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 365.7568359375,
+        "l2rpn_atc_reward": 49.19028854370117
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 375.01220703125,
+        "l2rpn_atc_reward": 49.02096939086914
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 377.8173828125,
+        "l2rpn_atc_reward": 48.96378707885742
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 384.189453125,
+        "l2rpn_atc_reward": 48.806053161621094
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 392.0703125,
+        "l2rpn_atc_reward": 48.65903854370117
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 392.07275390625,
+        "l2rpn_atc_reward": 48.6602668762207
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 406.23291015625,
+        "l2rpn_atc_reward": 48.33002471923828
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 406.0498046875,
+        "l2rpn_atc_reward": 48.35257339477539
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 454.15008544921875,
+        "l2rpn_atc_reward": 48.444461822509766
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 413.55712890625,
+        "l2rpn_atc_reward": 48.19586181640625
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 445.91357421875,
+        "l2rpn_atc_reward": 48.41687774658203
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 415.75439453125,
+        "l2rpn_atc_reward": 48.14507293701172
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 408.2861328125,
+        "l2rpn_atc_reward": 48.358489990234375
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 414.6630859375,
+        "l2rpn_atc_reward": 48.20433807373047
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 443.311279296875,
+        "l2rpn_atc_reward": 48.457759857177734
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 409.80224609375,
+        "l2rpn_atc_reward": 48.284027099609375
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 404.1650390625,
+        "l2rpn_atc_reward": 48.41602325439453
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 400.9375,
+        "l2rpn_atc_reward": 48.473636627197266
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 396.552734375,
+        "l2rpn_atc_reward": 48.56903839111328
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 392.19482421875,
+        "l2rpn_atc_reward": 48.66265869140625
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 436.6021728515625,
+        "l2rpn_atc_reward": 48.76871109008789
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 384.29931640625,
+        "l2rpn_atc_reward": 48.81695556640625
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 381.91162109375,
+        "l2rpn_atc_reward": 48.87844467163086
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 380.18310546875,
+        "l2rpn_atc_reward": 48.895164489746094
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 372.73681640625,
+        "l2rpn_atc_reward": 49.059024810791016
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 365.70556640625,
+        "l2rpn_atc_reward": 49.21183776855469
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 361.17919921875,
+        "l2rpn_atc_reward": 49.29855728149414
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 360.6201171875,
+        "l2rpn_atc_reward": 49.32667922973633
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 355.66162109375,
+        "l2rpn_atc_reward": 49.439414978027344
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 348.06640625,
+        "l2rpn_atc_reward": 49.6279182434082
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 343.61572265625,
+        "l2rpn_atc_reward": 49.713157653808594
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 339.64599609375,
+        "l2rpn_atc_reward": 49.800392150878906
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 341.43310546875,
+        "l2rpn_atc_reward": 49.754154205322266
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 338.04931640625,
+        "l2rpn_atc_reward": 49.817047119140625
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 340.31005859375,
+        "l2rpn_atc_reward": 49.799964904785156
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 329.90234375,
+        "l2rpn_atc_reward": 50.01224136352539
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 332.83203125,
+        "l2rpn_atc_reward": 49.952701568603516
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 329.0673828125,
+        "l2rpn_atc_reward": 50.01359176635742
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 324.1552734375,
+        "l2rpn_atc_reward": 50.13005065917969
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 320.66162109375,
+        "l2rpn_atc_reward": 50.235382080078125
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 322.94677734375,
+        "l2rpn_atc_reward": 50.15760040283203
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 317.29736328125,
+        "l2rpn_atc_reward": 50.2675666809082
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 314.0087890625,
+        "l2rpn_atc_reward": 50.359718322753906
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 309.72900390625,
+        "l2rpn_atc_reward": 50.4553337097168
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 307.02392578125,
+        "l2rpn_atc_reward": 50.52385330200195
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 304.74853515625,
+        "l2rpn_atc_reward": 50.58232498168945
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 302.98095703125,
+        "l2rpn_atc_reward": 50.62729263305664
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 301.5234375,
+        "l2rpn_atc_reward": 50.667518615722656
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 305.66162109375,
+        "l2rpn_atc_reward": 50.54213333129883
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 305.87890625,
+        "l2rpn_atc_reward": 50.559356689453125
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 315.13916015625,
+        "l2rpn_atc_reward": 50.33626174926758
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 314.08935546875,
+        "l2rpn_atc_reward": 50.374839782714844
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 320.67626953125,
+        "l2rpn_atc_reward": 50.21550750732422
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 328.5888671875,
+        "l2rpn_atc_reward": 50.05497741699219
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 335.732421875,
+        "l2rpn_atc_reward": 49.873779296875
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 337.8955078125,
+        "l2rpn_atc_reward": 49.84779357910156
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 343.388671875,
+        "l2rpn_atc_reward": 49.72000503540039
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 343.5986328125,
+        "l2rpn_atc_reward": 49.699317932128906
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 345.75927734375,
+        "l2rpn_atc_reward": 49.67930221557617
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 345.97900390625,
+        "l2rpn_atc_reward": 49.660072326660156
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 339.89501953125,
+        "l2rpn_atc_reward": 49.7907600402832
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 338.44970703125,
+        "l2rpn_atc_reward": 49.806678771972656
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 333.61572265625,
+        "l2rpn_atc_reward": 49.93547058105469
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 336.85791015625,
+        "l2rpn_atc_reward": 49.87909698486328
+    },
+    {
+        "MinMargin_reward": 0.28999999165534973,
+        "grid_operation_cost": 334.1796875,
+        "l2rpn_atc_reward": 49.92893600463867
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 341.142578125,
+        "l2rpn_atc_reward": 49.77089309692383
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 343.1103515625,
+        "l2rpn_atc_reward": 49.7368049621582
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 344.8486328125,
+        "l2rpn_atc_reward": 49.70026397705078
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 351.38671875,
+        "l2rpn_atc_reward": 49.58100128173828
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 348.69873046875,
+        "l2rpn_atc_reward": 49.63792419433594
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 348.369140625,
+        "l2rpn_atc_reward": 49.64482879638672
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 341.31103515625,
+        "l2rpn_atc_reward": 49.79182052612305
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 336.884765625,
+        "l2rpn_atc_reward": 49.89516067504883
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 332.23876953125,
+        "l2rpn_atc_reward": 49.975311279296875
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 323.68408203125,
+        "l2rpn_atc_reward": 50.19622802734375
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 315.28564453125,
+        "l2rpn_atc_reward": 50.390480041503906
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 316.962890625,
+        "l2rpn_atc_reward": 50.35641860961914
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 311.77734375,
+        "l2rpn_atc_reward": 50.46793746948242
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 309.19677734375,
+        "l2rpn_atc_reward": 50.54423522949219
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 307.54150390625,
+        "l2rpn_atc_reward": 50.572967529296875
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 301.0205078125,
+        "l2rpn_atc_reward": 50.70335388183594
+    },
+    {
+        "MinMargin_reward": 0.25999999046325684,
+        "grid_operation_cost": 300.96923828125,
+        "l2rpn_atc_reward": 50.731224060058594
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 298.87939453125,
+        "l2rpn_atc_reward": 50.744224548339844
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 294.27734375,
+        "l2rpn_atc_reward": 50.84999465942383
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 299.052734375,
+        "l2rpn_atc_reward": 50.7672119140625
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 296.9970703125,
+        "l2rpn_atc_reward": 50.8211784362793
+    },
+    {
+        "MinMargin_reward": 0.27000001072883606,
+        "grid_operation_cost": 300.7763671875,
+        "l2rpn_atc_reward": 50.71726989746094
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 302.61474609375,
+        "l2rpn_atc_reward": 50.68889617919922
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 302.822265625,
+        "l2rpn_atc_reward": 50.69158172607422
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 300.68603515625,
+        "l2rpn_atc_reward": 50.732513427734375
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 308.544921875,
+        "l2rpn_atc_reward": 50.581180572509766
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 304.31396484375,
+        "l2rpn_atc_reward": 50.64484405517578
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 305.56640625,
+        "l2rpn_atc_reward": 50.6571044921875
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 305.45654296875,
+        "l2rpn_atc_reward": 50.6643180847168
+    },
+    {
+        "MinMargin_reward": 0.20000000298023224,
+        "grid_operation_cost": 304.0673828125,
+        "l2rpn_atc_reward": 50.682884216308594
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 301.85302734375,
+        "l2rpn_atc_reward": 50.719512939453125
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 306.94580078125,
+        "l2rpn_atc_reward": 50.63692855834961
+    },
+    {
+        "MinMargin_reward": 0.18000000715255737,
+        "grid_operation_cost": 306.05712890625,
+        "l2rpn_atc_reward": 50.65829086303711
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 316.04248046875,
+        "l2rpn_atc_reward": 50.43187713623047
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 312.060546875,
+        "l2rpn_atc_reward": 50.54057693481445
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 310.400390625,
+        "l2rpn_atc_reward": 50.587974548339844
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 300.224609375,
+        "l2rpn_atc_reward": 50.78544235229492
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 304.46533203125,
+        "l2rpn_atc_reward": 50.70146560668945
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 300.6787109375,
+        "l2rpn_atc_reward": 50.794925689697266
+    },
+    {
+        "MinMargin_reward": 0.15000000596046448,
+        "grid_operation_cost": 301.1181640625,
+        "l2rpn_atc_reward": 50.804752349853516
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 301.67724609375,
+        "l2rpn_atc_reward": 50.79474639892578
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 300.2197265625,
+        "l2rpn_atc_reward": 50.82623291015625
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 299.31396484375,
+        "l2rpn_atc_reward": 50.863670349121094
+    },
+    {
+        "MinMargin_reward": 0.14000000059604645,
+        "grid_operation_cost": 297.46337890625,
+        "l2rpn_atc_reward": 50.91221237182617
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 301.58203125,
+        "l2rpn_atc_reward": 50.82660675048828
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 300.908203125,
+        "l2rpn_atc_reward": 50.84452819824219
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 300.5126953125,
+        "l2rpn_atc_reward": 50.84215545654297
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 300.84228515625,
+        "l2rpn_atc_reward": 50.80696487426758
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 303.857421875,
+        "l2rpn_atc_reward": 50.7833137512207
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 309.4921875,
+        "l2rpn_atc_reward": 50.67096710205078
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 305.068359375,
+        "l2rpn_atc_reward": 50.780086517333984
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 304.61181640625,
+        "l2rpn_atc_reward": 50.791015625
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 302.3828125,
+        "l2rpn_atc_reward": 50.85049819946289
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 303.98681640625,
+        "l2rpn_atc_reward": 50.79740905761719
+    },
+    {
+        "MinMargin_reward": 0.07000000029802322,
+        "grid_operation_cost": 305.625,
+        "l2rpn_atc_reward": 50.77716827392578
+    },
+    {
+        "MinMargin_reward": 0.09000000357627869,
+        "grid_operation_cost": 302.79296875,
+        "l2rpn_atc_reward": 50.83205032348633
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 300.791015625,
+        "l2rpn_atc_reward": 50.85752487182617
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 302.33154296875,
+        "l2rpn_atc_reward": 50.831600189208984
+    },
+    {
+        "MinMargin_reward": 0.07999999821186066,
+        "grid_operation_cost": 304.97314453125,
+        "l2rpn_atc_reward": 50.7832145690918
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 299.7998046875,
+        "l2rpn_atc_reward": 50.864322662353516
+    },
+    {
+        "MinMargin_reward": 0.10000000149011612,
+        "grid_operation_cost": 298.57666015625,
+        "l2rpn_atc_reward": 50.89149856567383
+    },
+    {
+        "MinMargin_reward": 0.10999999940395355,
+        "grid_operation_cost": 296.46728515625,
+        "l2rpn_atc_reward": 50.92461395263672
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 293.72314453125,
+        "l2rpn_atc_reward": 50.993350982666016
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 295.56640625,
+        "l2rpn_atc_reward": 50.94744873046875
+    },
+    {
+        "MinMargin_reward": 0.11999999731779099,
+        "grid_operation_cost": 292.36572265625,
+        "l2rpn_atc_reward": 51.021053314208984
+    },
+    {
+        "MinMargin_reward": 0.12999999523162842,
+        "grid_operation_cost": 292.56103515625,
+        "l2rpn_atc_reward": 50.99610137939453
+    },
+    {
+        "MinMargin_reward": 0.1599999964237213,
+        "grid_operation_cost": 289.04541015625,
+        "l2rpn_atc_reward": 51.05333709716797
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 286.65771484375,
+        "l2rpn_atc_reward": 51.13003158569336
+    },
+    {
+        "MinMargin_reward": 0.17000000178813934,
+        "grid_operation_cost": 283.37158203125,
+        "l2rpn_atc_reward": 51.172630310058594
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 282.470703125,
+        "l2rpn_atc_reward": 51.18653869628906
+    },
+    {
+        "MinMargin_reward": 0.1899999976158142,
+        "grid_operation_cost": 282.27783203125,
+        "l2rpn_atc_reward": 51.1800422668457
+    },
+    {
+        "MinMargin_reward": 0.20999999344348907,
+        "grid_operation_cost": 275.654296875,
+        "l2rpn_atc_reward": 51.33303451538086
+    },
+    {
+        "MinMargin_reward": 0.2199999988079071,
+        "grid_operation_cost": 271.884765625,
+        "l2rpn_atc_reward": 51.41212844848633
+    },
+    {
+        "MinMargin_reward": 0.23000000417232513,
+        "grid_operation_cost": 267.33642578125,
+        "l2rpn_atc_reward": 51.49556350708008
+    },
+    {
+        "MinMargin_reward": 0.23999999463558197,
+        "grid_operation_cost": 264.7607421875,
+        "l2rpn_atc_reward": 51.54491424560547
+    },
+    {
+        "MinMargin_reward": 0.25,
+        "grid_operation_cost": 263.2958984375,
+        "l2rpn_atc_reward": 51.56962966918945
+    },
+    {
+        "MinMargin_reward": 0.2800000011920929,
+        "grid_operation_cost": 258.65478515625,
+        "l2rpn_atc_reward": 51.69057083129883
+    },
+    {
+        "MinMargin_reward": 0.30000001192092896,
+        "grid_operation_cost": 255.166015625,
+        "l2rpn_atc_reward": 51.74209976196289
+    },
+    {
+        "MinMargin_reward": 0.3100000023841858,
+        "grid_operation_cost": 250.9423828125,
+        "l2rpn_atc_reward": 51.83171463012695
+    },
+    {
+        "MinMargin_reward": 0.3199999928474426,
+        "grid_operation_cost": 246.11328125,
+        "l2rpn_atc_reward": 51.90838623046875
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 241.35986328125,
+        "l2rpn_atc_reward": 51.98693084716797
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 238.3447265625,
+        "l2rpn_atc_reward": 52.04882049560547
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 238.7109375,
+        "l2rpn_atc_reward": 52.55366897583008
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 237.40478515625,
+        "l2rpn_atc_reward": 52.5643424987793
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 234.69970703125,
+        "l2rpn_atc_reward": 52.61357116699219
+    },
+    {
+        "MinMargin_reward": 0.3700000047683716,
+        "grid_operation_cost": 235.68359375,
+        "l2rpn_atc_reward": 52.57421112060547
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 229.87548828125,
+        "l2rpn_atc_reward": 52.6591682434082
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 229.8046875,
+        "l2rpn_atc_reward": 52.672630310058594
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 227.00439453125,
+        "l2rpn_atc_reward": 52.70113754272461
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 226.6796875,
+        "l2rpn_atc_reward": 52.68452453613281
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 224.189453125,
+        "l2rpn_atc_reward": 52.70185852050781
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 224.130859375,
+        "l2rpn_atc_reward": 52.72644805908203
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 225.8642578125,
+        "l2rpn_atc_reward": 52.679290771484375
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 223.83544921875,
+        "l2rpn_atc_reward": 52.71963119506836
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 224.06982421875,
+        "l2rpn_atc_reward": 52.70351028442383
+    },
+    {
+        "MinMargin_reward": 0.36000001430511475,
+        "grid_operation_cost": 222.3828125,
+        "l2rpn_atc_reward": 52.731590270996094
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 217.36572265625,
+        "l2rpn_atc_reward": 52.822357177734375
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 215.25634765625,
+        "l2rpn_atc_reward": 52.829410552978516
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 211.1279296875,
+        "l2rpn_atc_reward": 52.842864990234375
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 208.78662109375,
+        "l2rpn_atc_reward": 52.85953140258789
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 203.96240234375,
+        "l2rpn_atc_reward": 52.93006896972656
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 198.06884765625,
+        "l2rpn_atc_reward": 52.98183822631836
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 194.08447265625,
+        "l2rpn_atc_reward": 53.06388473510742
+    },
+    {
+        "MinMargin_reward": 0.3499999940395355,
+        "grid_operation_cost": 196.5576171875,
+        "l2rpn_atc_reward": 53.0193977355957
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 194.60693359375,
+        "l2rpn_atc_reward": 53.061195373535156
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 192.45361328125,
+        "l2rpn_atc_reward": 53.05452346801758
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 190.93017578125,
+        "l2rpn_atc_reward": 53.11393356323242
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 190.2587890625,
+        "l2rpn_atc_reward": 53.1647834777832
+    },
+    {
+        "MinMargin_reward": 0.3400000035762787,
+        "grid_operation_cost": 195.33935546875,
+        "l2rpn_atc_reward": 53.027801513671875
+    },
+    {
+        "MinMargin_reward": 0.33000001311302185,
+        "grid_operation_cost": 189.88037109375,
+        "l2rpn_atc_reward": 53.110103607177734
+    },
+    {
+        "MinMargin_reward": -0.09000000357627869,
+        "grid_operation_cost": 202.19482421875,
+        "l2rpn_atc_reward": 52.634483337402344
+    },
+    {
+        "MinMargin_reward": -0.09000000357627869,
+        "grid_operation_cost": 201.1572265625,
+        "l2rpn_atc_reward": 52.63843536376953
+    },
+    {
+        "MinMargin_reward": -0.09000000357627869,
+        "grid_operation_cost": 198.73291015625,
+        "l2rpn_atc_reward": 52.68763732910156
+    },
+    {
+        "MinMargin_reward": -1.0,
+        "grid_operation_cost": 1.0,
+        "l2rpn_atc_reward": 0.0
+    }
+]
