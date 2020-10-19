@@ -1,0 +1,3466 @@
+[
+    {
+        "L2RPNReward": 51.54145431518555,
+        "grid_operation_cost": 338.478515625
+    },
+    {
+        "L2RPNReward": 51.6589469909668,
+        "grid_operation_cost": 329.40234375
+    },
+    {
+        "L2RPNReward": 51.65215301513672,
+        "grid_operation_cost": 327.205078125
+    },
+    {
+        "L2RPNReward": 51.6399040222168,
+        "grid_operation_cost": 324.298828125
+    },
+    {
+        "L2RPNReward": 51.6525764465332,
+        "grid_operation_cost": 320.30859375
+    },
+    {
+        "L2RPNReward": 51.660362243652344,
+        "grid_operation_cost": 317.724609375
+    },
+    {
+        "L2RPNReward": 51.601993560791016,
+        "grid_operation_cost": 316.74609375
+    },
+    {
+        "L2RPNReward": 51.5245475769043,
+        "grid_operation_cost": 314.84765625
+    },
+    {
+        "L2RPNReward": 51.50934982299805,
+        "grid_operation_cost": 313.224609375
+    },
+    {
+        "L2RPNReward": 51.45542526245117,
+        "grid_operation_cost": 310.3828125
+    },
+    {
+        "L2RPNReward": 51.3348274230957,
+        "grid_operation_cost": 311.783203125
+    },
+    {
+        "L2RPNReward": 51.233642578125,
+        "grid_operation_cost": 311.765625
+    },
+    {
+        "L2RPNReward": 51.098751068115234,
+        "grid_operation_cost": 314.701171875
+    },
+    {
+        "L2RPNReward": 51.01353073120117,
+        "grid_operation_cost": 313.787109375
+    },
+    {
+        "L2RPNReward": 50.837398529052734,
+        "grid_operation_cost": 319.482421875
+    },
+    {
+        "L2RPNReward": 50.58666229248047,
+        "grid_operation_cost": 319.962890625
+    },
+    {
+        "L2RPNReward": 50.417762756347656,
+        "grid_operation_cost": 320.384765625
+    },
+    {
+        "L2RPNReward": 50.26969909667969,
+        "grid_operation_cost": 319.546875
+    },
+    {
+        "L2RPNReward": 49.97147750854492,
+        "grid_operation_cost": 320.466796875
+    },
+    {
+        "L2RPNReward": 49.913330078125,
+        "grid_operation_cost": 322.8046875
+    },
+    {
+        "L2RPNReward": 49.86198425292969,
+        "grid_operation_cost": 325.32421875
+    },
+    {
+        "L2RPNReward": 49.85377502441406,
+        "grid_operation_cost": 324.955078125
+    },
+    {
+        "L2RPNReward": 49.798866271972656,
+        "grid_operation_cost": 323.525390625
+    },
+    {
+        "L2RPNReward": 49.750633239746094,
+        "grid_operation_cost": 322.59375
+    },
+    {
+        "L2RPNReward": 49.727474212646484,
+        "grid_operation_cost": 322.412109375
+    },
+    {
+        "L2RPNReward": 49.7342643737793,
+        "grid_operation_cost": 322.763671875
+    },
+    {
+        "L2RPNReward": 49.54298400878906,
+        "grid_operation_cost": 327.6328125
+    },
+    {
+        "L2RPNReward": 49.53001403808594,
+        "grid_operation_cost": 331.341796875
+    },
+    {
+        "L2RPNReward": 49.344940185546875,
+        "grid_operation_cost": 337.9921875
+    },
+    {
+        "L2RPNReward": 49.33494186401367,
+        "grid_operation_cost": 337.98046875
+    },
+    {
+        "L2RPNReward": 49.22803497314453,
+        "grid_operation_cost": 338.71875
+    },
+    {
+        "L2RPNReward": 49.0667610168457,
+        "grid_operation_cost": 365.0859375
+    },
+    {
+        "L2RPNReward": 48.996376037597656,
+        "grid_operation_cost": 366.099609375
+    },
+    {
+        "L2RPNReward": 49.03549575805664,
+        "grid_operation_cost": 362.150390625
+    },
+    {
+        "L2RPNReward": 49.03778076171875,
+        "grid_operation_cost": 365.96484375
+    },
+    {
+        "L2RPNReward": 49.064239501953125,
+        "grid_operation_cost": 361.1484375
+    },
+    {
+        "L2RPNReward": 49.07312774658203,
+        "grid_operation_cost": 359.3203125
+    },
+    {
+        "L2RPNReward": 49.138484954833984,
+        "grid_operation_cost": 354.509765625
+    },
+    {
+        "L2RPNReward": 49.22438049316406,
+        "grid_operation_cost": 351.22265625
+    },
+    {
+        "L2RPNReward": 49.20903015136719,
+        "grid_operation_cost": 352.787109375
+    },
+    {
+        "L2RPNReward": 49.14175796508789,
+        "grid_operation_cost": 354.521484375
+    },
+    {
+        "L2RPNReward": 49.147117614746094,
+        "grid_operation_cost": 351.2578125
+    },
+    {
+        "L2RPNReward": 48.99069595336914,
+        "grid_operation_cost": 356.4609375
+    },
+    {
+        "L2RPNReward": 48.86743927001953,
+        "grid_operation_cost": 363.45703125
+    },
+    {
+        "L2RPNReward": 48.83760452270508,
+        "grid_operation_cost": 362.044921875
+    },
+    {
+        "L2RPNReward": 48.816619873046875,
+        "grid_operation_cost": 361.39453125
+    },
+    {
+        "L2RPNReward": 48.70174026489258,
+        "grid_operation_cost": 364.9921875
+    },
+    {
+        "L2RPNReward": 48.727195739746094,
+        "grid_operation_cost": 364.8046875
+    },
+    {
+        "L2RPNReward": 48.548858642578125,
+        "grid_operation_cost": 372.05859375
+    },
+    {
+        "L2RPNReward": 48.631595611572266,
+        "grid_operation_cost": 372.591796875
+    },
+    {
+        "L2RPNReward": 48.62111282348633,
+        "grid_operation_cost": 367.55859375
+    },
+    {
+        "L2RPNReward": 48.759090423583984,
+        "grid_operation_cost": 362.9765625
+    },
+    {
+        "L2RPNReward": 48.75721740722656,
+        "grid_operation_cost": 366.404296875
+    },
+    {
+        "L2RPNReward": 48.697689056396484,
+        "grid_operation_cost": 369.955078125
+    },
+    {
+        "L2RPNReward": 48.83779525756836,
+        "grid_operation_cost": 362.33203125
+    },
+    {
+        "L2RPNReward": 48.846229553222656,
+        "grid_operation_cost": 364.693359375
+    },
+    {
+        "L2RPNReward": 48.84486389160156,
+        "grid_operation_cost": 367.986328125
+    },
+    {
+        "L2RPNReward": 48.900672912597656,
+        "grid_operation_cost": 367.6640625
+    },
+    {
+        "L2RPNReward": 48.97346115112305,
+        "grid_operation_cost": 365.70703125
+    },
+    {
+        "L2RPNReward": 48.9506950378418,
+        "grid_operation_cost": 368.466796875
+    },
+    {
+        "L2RPNReward": 48.92443084716797,
+        "grid_operation_cost": 370.447265625
+    },
+    {
+        "L2RPNReward": 48.933170318603516,
+        "grid_operation_cost": 372.48046875
+    },
+    {
+        "L2RPNReward": 48.881229400634766,
+        "grid_operation_cost": 375.140625
+    },
+    {
+        "L2RPNReward": 49.000640869140625,
+        "grid_operation_cost": 370.78125
+    },
+    {
+        "L2RPNReward": 49.12848663330078,
+        "grid_operation_cost": 363.92578125
+    },
+    {
+        "L2RPNReward": 49.223060607910156,
+        "grid_operation_cost": 358.4765625
+    },
+    {
+        "L2RPNReward": 49.22212219238281,
+        "grid_operation_cost": 360.19921875
+    },
+    {
+        "L2RPNReward": 49.151161193847656,
+        "grid_operation_cost": 359.0390625
+    },
+    {
+        "L2RPNReward": 49.244041442871094,
+        "grid_operation_cost": 353.77734375
+    },
+    {
+        "L2RPNReward": 49.22843933105469,
+        "grid_operation_cost": 359.056640625
+    },
+    {
+        "L2RPNReward": 49.138736724853516,
+        "grid_operation_cost": 361.18359375
+    },
+    {
+        "L2RPNReward": 49.1770133972168,
+        "grid_operation_cost": 365.37890625
+    },
+    {
+        "L2RPNReward": 49.1158447265625,
+        "grid_operation_cost": 369.708984375
+    },
+    {
+        "L2RPNReward": 49.14994430541992,
+        "grid_operation_cost": 367.927734375
+    },
+    {
+        "L2RPNReward": 49.16453170776367,
+        "grid_operation_cost": 368.994140625
+    },
+    {
+        "L2RPNReward": 49.29849624633789,
+        "grid_operation_cost": 362.7890625
+    },
+    {
+        "L2RPNReward": 49.35247802734375,
+        "grid_operation_cost": 357.087890625
+    },
+    {
+        "L2RPNReward": 49.368892669677734,
+        "grid_operation_cost": 356.6015625
+    },
+    {
+        "L2RPNReward": 49.59794998168945,
+        "grid_operation_cost": 347.654296875
+    },
+    {
+        "L2RPNReward": 49.51173400878906,
+        "grid_operation_cost": 348.9609375
+    },
+    {
+        "L2RPNReward": 49.55033493041992,
+        "grid_operation_cost": 345.158203125
+    },
+    {
+        "L2RPNReward": 49.645851135253906,
+        "grid_operation_cost": 339.99609375
+    },
+    {
+        "L2RPNReward": 49.709999084472656,
+        "grid_operation_cost": 336.41015625
+    },
+    {
+        "L2RPNReward": 49.72880935668945,
+        "grid_operation_cost": 335.478515625
+    },
+    {
+        "L2RPNReward": 49.83062744140625,
+        "grid_operation_cost": 334.013671875
+    },
+    {
+        "L2RPNReward": 49.766014099121094,
+        "grid_operation_cost": 339.69140625
+    },
+    {
+        "L2RPNReward": 49.939483642578125,
+        "grid_operation_cost": 338.583984375
+    },
+    {
+        "L2RPNReward": 49.75390625,
+        "grid_operation_cost": 344.015625
+    },
+    {
+        "L2RPNReward": 49.71072769165039,
+        "grid_operation_cost": 348.626953125
+    },
+    {
+        "L2RPNReward": 49.69074249267578,
+        "grid_operation_cost": 348.169921875
+    },
+    {
+        "L2RPNReward": 49.66524887084961,
+        "grid_operation_cost": 352.775390625
+    },
+    {
+        "L2RPNReward": 49.62804412841797,
+        "grid_operation_cost": 350.314453125
+    },
+    {
+        "L2RPNReward": 49.602325439453125,
+        "grid_operation_cost": 355.5234375
+    },
+    {
+        "L2RPNReward": 49.55690002441406,
+        "grid_operation_cost": 355.2890625
+    },
+    {
+        "L2RPNReward": 49.68190383911133,
+        "grid_operation_cost": 352.224609375
+    },
+    {
+        "L2RPNReward": 49.629364013671875,
+        "grid_operation_cost": 352.060546875
+    },
+    {
+        "L2RPNReward": 49.63424301147461,
+        "grid_operation_cost": 351.134765625
+    },
+    {
+        "L2RPNReward": 49.596473693847656,
+        "grid_operation_cost": 355.294921875
+    },
+    {
+        "L2RPNReward": 49.64179611206055,
+        "grid_operation_cost": 350.2734375
+    },
+    {
+        "L2RPNReward": 49.58480453491211,
+        "grid_operation_cost": 356.865234375
+    },
+    {
+        "L2RPNReward": 49.51731872558594,
+        "grid_operation_cost": 359.58984375
+    },
+    {
+        "L2RPNReward": 49.510589599609375,
+        "grid_operation_cost": 357.005859375
+    },
+    {
+        "L2RPNReward": 49.452754974365234,
+        "grid_operation_cost": 362.513671875
+    },
+    {
+        "L2RPNReward": 49.33403396606445,
+        "grid_operation_cost": 368.5546875
+    },
+    {
+        "L2RPNReward": 49.29243087768555,
+        "grid_operation_cost": 367.775390625
+    },
+    {
+        "L2RPNReward": 49.26382827758789,
+        "grid_operation_cost": 368.478515625
+    },
+    {
+        "L2RPNReward": 49.164451599121094,
+        "grid_operation_cost": 375.66796875
+    },
+    {
+        "L2RPNReward": 49.12599182128906,
+        "grid_operation_cost": 376.171875
+    },
+    {
+        "L2RPNReward": 49.208065032958984,
+        "grid_operation_cost": 372.9609375
+    },
+    {
+        "L2RPNReward": 49.2730598449707,
+        "grid_operation_cost": 369.943359375
+    },
+    {
+        "L2RPNReward": 49.32578659057617,
+        "grid_operation_cost": 365.7890625
+    },
+    {
+        "L2RPNReward": 49.366214752197266,
+        "grid_operation_cost": 367.353515625
+    },
+    {
+        "L2RPNReward": 49.26800537109375,
+        "grid_operation_cost": 370.787109375
+    },
+    {
+        "L2RPNReward": 49.47063064575195,
+        "grid_operation_cost": 362.578125
+    },
+    {
+        "L2RPNReward": 49.48320007324219,
+        "grid_operation_cost": 362.080078125
+    },
+    {
+        "L2RPNReward": 49.63507843017578,
+        "grid_operation_cost": 357.29296875
+    },
+    {
+        "L2RPNReward": 49.666908264160156,
+        "grid_operation_cost": 356.37890625
+    },
+    {
+        "L2RPNReward": 49.682987213134766,
+        "grid_operation_cost": 355.58203125
+    },
+    {
+        "L2RPNReward": 49.56209182739258,
+        "grid_operation_cost": 360.861328125
+    },
+    {
+        "L2RPNReward": 49.65748596191406,
+        "grid_operation_cost": 354.673828125
+    },
+    {
+        "L2RPNReward": 49.57332992553711,
+        "grid_operation_cost": 359.724609375
+    },
+    {
+        "L2RPNReward": 49.65116882324219,
+        "grid_operation_cost": 357.69140625
+    },
+    {
+        "L2RPNReward": 49.71980667114258,
+        "grid_operation_cost": 357.28125
+    },
+    {
+        "L2RPNReward": 49.65284729003906,
+        "grid_operation_cost": 357.73828125
+    },
+    {
+        "L2RPNReward": 49.634613037109375,
+        "grid_operation_cost": 359.701171875
+    },
+    {
+        "L2RPNReward": 49.76350784301758,
+        "grid_operation_cost": 362.759765625
+    },
+    {
+        "L2RPNReward": 49.649906158447266,
+        "grid_operation_cost": 369.521484375
+    },
+    {
+        "L2RPNReward": 49.66664123535156,
+        "grid_operation_cost": 369.919921875
+    },
+    {
+        "L2RPNReward": 49.683494567871094,
+        "grid_operation_cost": 372.544921875
+    },
+    {
+        "L2RPNReward": 49.55791091918945,
+        "grid_operation_cost": 380.07421875
+    },
+    {
+        "L2RPNReward": 49.51528549194336,
+        "grid_operation_cost": 383.3671875
+    },
+    {
+        "L2RPNReward": 49.58863830566406,
+        "grid_operation_cost": 387.416015625
+    },
+    {
+        "L2RPNReward": 49.43584060668945,
+        "grid_operation_cost": 391.6171875
+    },
+    {
+        "L2RPNReward": 49.27825927734375,
+        "grid_operation_cost": 398.4140625
+    },
+    {
+        "L2RPNReward": 49.21452331542969,
+        "grid_operation_cost": 406.6875
+    },
+    {
+        "L2RPNReward": 49.126365661621094,
+        "grid_operation_cost": 409.353515625
+    },
+    {
+        "L2RPNReward": 49.109886169433594,
+        "grid_operation_cost": 412.08984375
+    },
+    {
+        "L2RPNReward": 49.10298538208008,
+        "grid_operation_cost": 420.931640625
+    },
+    {
+        "L2RPNReward": 48.87234115600586,
+        "grid_operation_cost": 430.904296875
+    },
+    {
+        "L2RPNReward": 48.680198669433594,
+        "grid_operation_cost": 435.4921875
+    },
+    {
+        "L2RPNReward": 48.6589241027832,
+        "grid_operation_cost": 438.533203125
+    },
+    {
+        "L2RPNReward": 48.482635498046875,
+        "grid_operation_cost": 449.68359375
+    },
+    {
+        "L2RPNReward": 48.3144416809082,
+        "grid_operation_cost": 460.7578125
+    },
+    {
+        "L2RPNReward": 48.24757385253906,
+        "grid_operation_cost": 463.4296875
+    },
+    {
+        "L2RPNReward": 48.10394287109375,
+        "grid_operation_cost": 471.720703125
+    },
+    {
+        "L2RPNReward": 47.92194747924805,
+        "grid_operation_cost": 481.025390625
+    },
+    {
+        "L2RPNReward": 47.692039489746094,
+        "grid_operation_cost": 491.53125
+    },
+    {
+        "L2RPNReward": 47.62445068359375,
+        "grid_operation_cost": 499.11328125
+    },
+    {
+        "L2RPNReward": 47.56059646606445,
+        "grid_operation_cost": 502.294921875
+    },
+    {
+        "L2RPNReward": 47.40512466430664,
+        "grid_operation_cost": 514.59375
+    },
+    {
+        "L2RPNReward": 47.50320816040039,
+        "grid_operation_cost": 507.19921875
+    },
+    {
+        "L2RPNReward": 47.53110885620117,
+        "grid_operation_cost": 506.33203125
+    },
+    {
+        "L2RPNReward": 47.584205627441406,
+        "grid_operation_cost": 502.3359375
+    },
+    {
+        "L2RPNReward": 47.70524597167969,
+        "grid_operation_cost": 496.400390625
+    },
+    {
+        "L2RPNReward": 47.8343505859375,
+        "grid_operation_cost": 490.376953125
+    },
+    {
+        "L2RPNReward": 47.895973205566406,
+        "grid_operation_cost": 486.626953125
+    },
+    {
+        "L2RPNReward": 47.937095642089844,
+        "grid_operation_cost": 481.412109375
+    },
+    {
+        "L2RPNReward": 48.00717544555664,
+        "grid_operation_cost": 479.455078125
+    },
+    {
+        "L2RPNReward": 48.13702392578125,
+        "grid_operation_cost": 471.673828125
+    },
+    {
+        "L2RPNReward": 48.178497314453125,
+        "grid_operation_cost": 467.771484375
+    },
+    {
+        "L2RPNReward": 48.357505798339844,
+        "grid_operation_cost": 458.068359375
+    },
+    {
+        "L2RPNReward": 48.402740478515625,
+        "grid_operation_cost": 453.169921875
+    },
+    {
+        "L2RPNReward": 48.561859130859375,
+        "grid_operation_cost": 445.5234375
+    },
+    {
+        "L2RPNReward": 48.518280029296875,
+        "grid_operation_cost": 444.615234375
+    },
+    {
+        "L2RPNReward": 48.76444625854492,
+        "grid_operation_cost": 431.314453125
+    },
+    {
+        "L2RPNReward": 48.76685333251953,
+        "grid_operation_cost": 431.876953125
+    },
+    {
+        "L2RPNReward": 48.94401550292969,
+        "grid_operation_cost": 418.013671875
+    },
+    {
+        "L2RPNReward": 48.87804412841797,
+        "grid_operation_cost": 418.4765625
+    },
+    {
+        "L2RPNReward": 49.03219985961914,
+        "grid_operation_cost": 409.400390625
+    },
+    {
+        "L2RPNReward": 49.245479583740234,
+        "grid_operation_cost": 400.5
+    },
+    {
+        "L2RPNReward": 49.27239990234375,
+        "grid_operation_cost": 400.154296875
+    },
+    {
+        "L2RPNReward": 49.14487075805664,
+        "grid_operation_cost": 401.80078125
+    },
+    {
+        "L2RPNReward": 49.335716247558594,
+        "grid_operation_cost": 396.099609375
+    },
+    {
+        "L2RPNReward": 49.242332458496094,
+        "grid_operation_cost": 392.625
+    },
+    {
+        "L2RPNReward": 49.39209747314453,
+        "grid_operation_cost": 384.884765625
+    },
+    {
+        "L2RPNReward": 49.443641662597656,
+        "grid_operation_cost": 382.529296875
+    },
+    {
+        "L2RPNReward": 49.45335006713867,
+        "grid_operation_cost": 378.12890625
+    },
+    {
+        "L2RPNReward": 49.629512786865234,
+        "grid_operation_cost": 374.8125
+    },
+    {
+        "L2RPNReward": 49.4661979675293,
+        "grid_operation_cost": 370.072265625
+    },
+    {
+        "L2RPNReward": 49.32571792602539,
+        "grid_operation_cost": 375.43359375
+    },
+    {
+        "L2RPNReward": 49.49128341674805,
+        "grid_operation_cost": 366.65625
+    },
+    {
+        "L2RPNReward": 49.47196578979492,
+        "grid_operation_cost": 365.16796875
+    },
+    {
+        "L2RPNReward": 49.634883880615234,
+        "grid_operation_cost": 361.546875
+    },
+    {
+        "L2RPNReward": 49.81744384765625,
+        "grid_operation_cost": 358.83984375
+    },
+    {
+        "L2RPNReward": 49.997589111328125,
+        "grid_operation_cost": 356.44921875
+    },
+    {
+        "L2RPNReward": 50.10719680786133,
+        "grid_operation_cost": 357.46875
+    },
+    {
+        "L2RPNReward": 50.27952194213867,
+        "grid_operation_cost": 352.6640625
+    },
+    {
+        "L2RPNReward": 50.173919677734375,
+        "grid_operation_cost": 353.642578125
+    },
+    {
+        "L2RPNReward": 50.114681243896484,
+        "grid_operation_cost": 352.69921875
+    },
+    {
+        "L2RPNReward": 49.874290466308594,
+        "grid_operation_cost": 359.87109375
+    },
+    {
+        "L2RPNReward": 49.76041793823242,
+        "grid_operation_cost": 357.556640625
+    },
+    {
+        "L2RPNReward": 49.709774017333984,
+        "grid_operation_cost": 362.548828125
+    },
+    {
+        "L2RPNReward": 49.47801971435547,
+        "grid_operation_cost": 371.607421875
+    },
+    {
+        "L2RPNReward": 49.4342041015625,
+        "grid_operation_cost": 372.029296875
+    },
+    {
+        "L2RPNReward": 49.34891891479492,
+        "grid_operation_cost": 377.35546875
+    },
+    {
+        "L2RPNReward": 49.33644485473633,
+        "grid_operation_cost": 375.943359375
+    },
+    {
+        "L2RPNReward": 49.33475112915039,
+        "grid_operation_cost": 378.826171875
+    },
+    {
+        "L2RPNReward": 49.4132194519043,
+        "grid_operation_cost": 374.91796875
+    },
+    {
+        "L2RPNReward": 49.54586410522461,
+        "grid_operation_cost": 369.697265625
+    },
+    {
+        "L2RPNReward": 49.50077438354492,
+        "grid_operation_cost": 372.03515625
+    },
+    {
+        "L2RPNReward": 49.51472854614258,
+        "grid_operation_cost": 372.533203125
+    },
+    {
+        "L2RPNReward": 49.545223236083984,
+        "grid_operation_cost": 368.53125
+    },
+    {
+        "L2RPNReward": 49.55088806152344,
+        "grid_operation_cost": 366.0703125
+    },
+    {
+        "L2RPNReward": 49.59770965576172,
+        "grid_operation_cost": 363.62109375
+    },
+    {
+        "L2RPNReward": 49.56169891357422,
+        "grid_operation_cost": 362.4140625
+    },
+    {
+        "L2RPNReward": 49.63418197631836,
+        "grid_operation_cost": 364.423828125
+    },
+    {
+        "L2RPNReward": 49.81161117553711,
+        "grid_operation_cost": 361.095703125
+    },
+    {
+        "L2RPNReward": 49.90269088745117,
+        "grid_operation_cost": 362.818359375
+    },
+    {
+        "L2RPNReward": 49.99681091308594,
+        "grid_operation_cost": 365.82421875
+    },
+    {
+        "L2RPNReward": 50.13065719604492,
+        "grid_operation_cost": 362.126953125
+    },
+    {
+        "L2RPNReward": 50.21577835083008,
+        "grid_operation_cost": 365.232421875
+    },
+    {
+        "L2RPNReward": 50.376564025878906,
+        "grid_operation_cost": 364.46484375
+    },
+    {
+        "L2RPNReward": 50.49890899658203,
+        "grid_operation_cost": 362.701171875
+    },
+    {
+        "L2RPNReward": 50.708038330078125,
+        "grid_operation_cost": 356.25
+    },
+    {
+        "L2RPNReward": 50.77805709838867,
+        "grid_operation_cost": 360.73828125
+    },
+    {
+        "L2RPNReward": 50.85451889038086,
+        "grid_operation_cost": 360.158203125
+    },
+    {
+        "L2RPNReward": 50.79502868652344,
+        "grid_operation_cost": 367.623046875
+    },
+    {
+        "L2RPNReward": 50.844703674316406,
+        "grid_operation_cost": 371.478515625
+    },
+    {
+        "L2RPNReward": 51.006168365478516,
+        "grid_operation_cost": 351.47998046875
+    },
+    {
+        "L2RPNReward": 50.877769470214844,
+        "grid_operation_cost": 366.354736328125
+    },
+    {
+        "L2RPNReward": 50.847923278808594,
+        "grid_operation_cost": 371.4814453125
+    },
+    {
+        "L2RPNReward": 50.901485443115234,
+        "grid_operation_cost": 372.093505859375
+    },
+    {
+        "L2RPNReward": 50.8626823425293,
+        "grid_operation_cost": 375.777099609375
+    },
+    {
+        "L2RPNReward": 50.91871643066406,
+        "grid_operation_cost": 373.362548828125
+    },
+    {
+        "L2RPNReward": 50.945438385009766,
+        "grid_operation_cost": 390.603515625
+    },
+    {
+        "L2RPNReward": 50.989933013916016,
+        "grid_operation_cost": 387.83203125
+    },
+    {
+        "L2RPNReward": 50.95655059814453,
+        "grid_operation_cost": 373.486083984375
+    },
+    {
+        "L2RPNReward": 50.87923049926758,
+        "grid_operation_cost": 393.849609375
+    },
+    {
+        "L2RPNReward": 50.88703536987305,
+        "grid_operation_cost": 376.74853515625
+    },
+    {
+        "L2RPNReward": 50.95404052734375,
+        "grid_operation_cost": 389.4873046875
+    },
+    {
+        "L2RPNReward": 50.80752944946289,
+        "grid_operation_cost": 381.3446044921875
+    },
+    {
+        "L2RPNReward": 50.71940994262695,
+        "grid_operation_cost": 386.6510009765625
+    },
+    {
+        "L2RPNReward": 50.80910873413086,
+        "grid_operation_cost": 382.6304931640625
+    },
+    {
+        "L2RPNReward": 50.79525375366211,
+        "grid_operation_cost": 381.89208984375
+    },
+    {
+        "L2RPNReward": 50.98445129394531,
+        "grid_operation_cost": 390.837890625
+    },
+    {
+        "L2RPNReward": 50.81529998779297,
+        "grid_operation_cost": 398.689453125
+    },
+    {
+        "L2RPNReward": 50.62168884277344,
+        "grid_operation_cost": 410.96484375
+    },
+    {
+        "L2RPNReward": 50.527259826660156,
+        "grid_operation_cost": 417.0263671875
+    },
+    {
+        "L2RPNReward": 50.33305740356445,
+        "grid_operation_cost": 425.2177734375
+    },
+    {
+        "L2RPNReward": 50.2469482421875,
+        "grid_operation_cost": 432.1728515625
+    },
+    {
+        "L2RPNReward": 50.05908966064453,
+        "grid_operation_cost": 442.4736328125
+    },
+    {
+        "L2RPNReward": 49.79117965698242,
+        "grid_operation_cost": 437.6148681640625
+    },
+    {
+        "L2RPNReward": 49.714298248291016,
+        "grid_operation_cost": 440.0911865234375
+    },
+    {
+        "L2RPNReward": 49.52204132080078,
+        "grid_operation_cost": 448.28662109375
+    },
+    {
+        "L2RPNReward": 49.15963363647461,
+        "grid_operation_cost": 465.3204345703125
+    },
+    {
+        "L2RPNReward": 49.06324005126953,
+        "grid_operation_cost": 468.9310302734375
+    },
+    {
+        "L2RPNReward": 48.667301177978516,
+        "grid_operation_cost": 485.824462890625
+    },
+    {
+        "L2RPNReward": 48.78241729736328,
+        "grid_operation_cost": 484.0809326171875
+    },
+    {
+        "L2RPNReward": 48.62559127807617,
+        "grid_operation_cost": 479.7235107421875
+    },
+    {
+        "L2RPNReward": 48.559391021728516,
+        "grid_operation_cost": 482.98370361328125
+    },
+    {
+        "L2RPNReward": 48.46359634399414,
+        "grid_operation_cost": 486.8865966796875
+    },
+    {
+        "L2RPNReward": 48.454925537109375,
+        "grid_operation_cost": 486.89483642578125
+    },
+    {
+        "L2RPNReward": 48.50999069213867,
+        "grid_operation_cost": 475.3203125
+    },
+    {
+        "L2RPNReward": 48.3687858581543,
+        "grid_operation_cost": 481.5400390625
+    },
+    {
+        "L2RPNReward": 48.12956237792969,
+        "grid_operation_cost": 516.5762939453125
+    },
+    {
+        "L2RPNReward": 48.135562896728516,
+        "grid_operation_cost": 492.762939453125
+    },
+    {
+        "L2RPNReward": 48.00672149658203,
+        "grid_operation_cost": 522.0567626953125
+    },
+    {
+        "L2RPNReward": 48.01642608642578,
+        "grid_operation_cost": 500.325439453125
+    },
+    {
+        "L2RPNReward": 48.037391662597656,
+        "grid_operation_cost": 510.7763671875
+    },
+    {
+        "L2RPNReward": 47.98529052734375,
+        "grid_operation_cost": 511.98211669921875
+    },
+    {
+        "L2RPNReward": 48.1998405456543,
+        "grid_operation_cost": 513.0751953125
+    },
+    {
+        "L2RPNReward": 48.111515045166016,
+        "grid_operation_cost": 517.4859619140625
+    },
+    {
+        "L2RPNReward": 47.80995559692383,
+        "grid_operation_cost": 519.6231079101562
+    },
+    {
+        "L2RPNReward": 47.9663200378418,
+        "grid_operation_cost": 511.7047119140625
+    },
+    {
+        "L2RPNReward": 48.056884765625,
+        "grid_operation_cost": 506.47796630859375
+    },
+    {
+        "L2RPNReward": 48.23041534423828,
+        "grid_operation_cost": 510.2703857421875
+    },
+    {
+        "L2RPNReward": 48.39020919799805,
+        "grid_operation_cost": 505.7332763671875
+    },
+    {
+        "L2RPNReward": 48.777687072753906,
+        "grid_operation_cost": 486.8436279296875
+    },
+    {
+        "L2RPNReward": 49.00872039794922,
+        "grid_operation_cost": 476.739013671875
+    },
+    {
+        "L2RPNReward": 49.386863708496094,
+        "grid_operation_cost": 460.308837890625
+    },
+    {
+        "L2RPNReward": 49.53541564941406,
+        "grid_operation_cost": 454.446533203125
+    },
+    {
+        "L2RPNReward": 49.82234573364258,
+        "grid_operation_cost": 440.554443359375
+    },
+    {
+        "L2RPNReward": 50.14558792114258,
+        "grid_operation_cost": 443.419921875
+    },
+    {
+        "L2RPNReward": 50.127315521240234,
+        "grid_operation_cost": 444.80859375
+    },
+    {
+        "L2RPNReward": 50.369178771972656,
+        "grid_operation_cost": 430.201171875
+    },
+    {
+        "L2RPNReward": 50.588809967041016,
+        "grid_operation_cost": 403.044677734375
+    },
+    {
+        "L2RPNReward": 50.721675872802734,
+        "grid_operation_cost": 411.298828125
+    },
+    {
+        "L2RPNReward": 50.98251724243164,
+        "grid_operation_cost": 397.212890625
+    },
+    {
+        "L2RPNReward": 50.987464904785156,
+        "grid_operation_cost": 393.931640625
+    },
+    {
+        "L2RPNReward": 51.13667678833008,
+        "grid_operation_cost": 385.0107421875
+    },
+    {
+        "L2RPNReward": 51.18134307861328,
+        "grid_operation_cost": 380.90625
+    },
+    {
+        "L2RPNReward": 51.17549514770508,
+        "grid_operation_cost": 378.38671875
+    },
+    {
+        "L2RPNReward": 51.22707748413086,
+        "grid_operation_cost": 373.107421875
+    },
+    {
+        "L2RPNReward": 51.31764221191406,
+        "grid_operation_cost": 366.24609375
+    },
+    {
+        "L2RPNReward": 51.36145782470703,
+        "grid_operation_cost": 359.724609375
+    },
+    {
+        "L2RPNReward": 51.248741149902344,
+        "grid_operation_cost": 363.8203125
+    },
+    {
+        "L2RPNReward": 51.157291412353516,
+        "grid_operation_cost": 364.541015625
+    },
+    {
+        "L2RPNReward": 51.35670471191406,
+        "grid_operation_cost": 360.580078125
+    },
+    {
+        "L2RPNReward": 51.3238410949707,
+        "grid_operation_cost": 357.6328125
+    },
+    {
+        "L2RPNReward": 51.29022216796875,
+        "grid_operation_cost": 354.03515625
+    },
+    {
+        "L2RPNReward": 51.11693572998047,
+        "grid_operation_cost": 360.380859375
+    },
+    {
+        "L2RPNReward": 51.07341003417969,
+        "grid_operation_cost": 359.267578125
+    },
+    {
+        "L2RPNReward": 50.93790054321289,
+        "grid_operation_cost": 361.001953125
+    },
+    {
+        "L2RPNReward": 50.89268493652344,
+        "grid_operation_cost": 362.068359375
+    },
+    {
+        "L2RPNReward": 50.812034606933594,
+        "grid_operation_cost": 360.15234375
+    },
+    {
+        "L2RPNReward": 50.641353607177734,
+        "grid_operation_cost": 363.861328125
+    },
+    {
+        "L2RPNReward": 50.50629425048828,
+        "grid_operation_cost": 365.91796875
+    },
+    {
+        "L2RPNReward": 50.3735237121582,
+        "grid_operation_cost": 368.841796875
+    },
+    {
+        "L2RPNReward": 50.27002716064453,
+        "grid_operation_cost": 367.927734375
+    },
+    {
+        "L2RPNReward": 50.22089767456055,
+        "grid_operation_cost": 367.5234375
+    },
+    {
+        "L2RPNReward": 50.011436462402344,
+        "grid_operation_cost": 371.900390625
+    },
+    {
+        "L2RPNReward": 49.93915939331055,
+        "grid_operation_cost": 371.056640625
+    },
+    {
+        "L2RPNReward": 49.804805755615234,
+        "grid_operation_cost": 376.96875
+    },
+    {
+        "L2RPNReward": 49.80121994018555,
+        "grid_operation_cost": 380.009765625
+    },
+    {
+        "L2RPNReward": 49.74646759033203,
+        "grid_operation_cost": 387.896484375
+    },
+    {
+        "L2RPNReward": 49.64585876464844,
+        "grid_operation_cost": 391.1015625
+    },
+    {
+        "L2RPNReward": 49.6806526184082,
+        "grid_operation_cost": 394.0546875
+    },
+    {
+        "L2RPNReward": 49.625274658203125,
+        "grid_operation_cost": 399.416015625
+    },
+    {
+        "L2RPNReward": 49.570770263671875,
+        "grid_operation_cost": 402.908203125
+    },
+    {
+        "L2RPNReward": 49.46144104003906,
+        "grid_operation_cost": 412.34765625
+    },
+    {
+        "L2RPNReward": 49.38741683959961,
+        "grid_operation_cost": 419.326171875
+    },
+    {
+        "L2RPNReward": 49.467403411865234,
+        "grid_operation_cost": 420.005859375
+    },
+    {
+        "L2RPNReward": 49.261566162109375,
+        "grid_operation_cost": 433.541015625
+    },
+    {
+        "L2RPNReward": 49.23323440551758,
+        "grid_operation_cost": 438.615234375
+    },
+    {
+        "L2RPNReward": 49.26765441894531,
+        "grid_operation_cost": 436.412109375
+    },
+    {
+        "L2RPNReward": 49.22357177734375,
+        "grid_operation_cost": 438.544921875
+    },
+    {
+        "L2RPNReward": 49.2431526184082,
+        "grid_operation_cost": 435.802734375
+    },
+    {
+        "L2RPNReward": 49.21967697143555,
+        "grid_operation_cost": 437.56640625
+    },
+    {
+        "L2RPNReward": 49.12016296386719,
+        "grid_operation_cost": 443.2265625
+    },
+    {
+        "L2RPNReward": 49.23968505859375,
+        "grid_operation_cost": 437.888671875
+    },
+    {
+        "L2RPNReward": 49.18267059326172,
+        "grid_operation_cost": 435.943359375
+    },
+    {
+        "L2RPNReward": 49.18952560424805,
+        "grid_operation_cost": 439.283203125
+    },
+    {
+        "L2RPNReward": 49.10621643066406,
+        "grid_operation_cost": 444.287109375
+    },
+    {
+        "L2RPNReward": 49.091339111328125,
+        "grid_operation_cost": 444.55078125
+    },
+    {
+        "L2RPNReward": 49.19904327392578,
+        "grid_operation_cost": 436.587890625
+    },
+    {
+        "L2RPNReward": 48.99253463745117,
+        "grid_operation_cost": 451.6640625
+    },
+    {
+        "L2RPNReward": 49.10037612915039,
+        "grid_operation_cost": 441.626953125
+    },
+    {
+        "L2RPNReward": 49.04832458496094,
+        "grid_operation_cost": 444.19921875
+    },
+    {
+        "L2RPNReward": 49.07130813598633,
+        "grid_operation_cost": 441.697265625
+    },
+    {
+        "L2RPNReward": 49.11101531982422,
+        "grid_operation_cost": 438.392578125
+    },
+    {
+        "L2RPNReward": 49.003562927246094,
+        "grid_operation_cost": 446.109375
+    },
+    {
+        "L2RPNReward": 48.965049743652344,
+        "grid_operation_cost": 439.306640625
+    },
+    {
+        "L2RPNReward": 49.0269889831543,
+        "grid_operation_cost": 444.193359375
+    },
+    {
+        "L2RPNReward": 48.93068313598633,
+        "grid_operation_cost": 448.72265625
+    },
+    {
+        "L2RPNReward": 49.05656433105469,
+        "grid_operation_cost": 440.16796875
+    },
+    {
+        "L2RPNReward": 49.08407974243164,
+        "grid_operation_cost": 438.873046875
+    },
+    {
+        "L2RPNReward": 49.076499938964844,
+        "grid_operation_cost": 438.375
+    },
+    {
+        "L2RPNReward": 48.99081039428711,
+        "grid_operation_cost": 444.046875
+    },
+    {
+        "L2RPNReward": 48.99143981933594,
+        "grid_operation_cost": 441.521484375
+    },
+    {
+        "L2RPNReward": 48.86930847167969,
+        "grid_operation_cost": 448.16015625
+    },
+    {
+        "L2RPNReward": 48.91205596923828,
+        "grid_operation_cost": 446.63671875
+    },
+    {
+        "L2RPNReward": 48.92752456665039,
+        "grid_operation_cost": 440.765625
+    },
+    {
+        "L2RPNReward": 48.86380386352539,
+        "grid_operation_cost": 444.85546875
+    },
+    {
+        "L2RPNReward": 48.89109420776367,
+        "grid_operation_cost": 443.19140625
+    },
+    {
+        "L2RPNReward": 48.872196197509766,
+        "grid_operation_cost": 445.259765625
+    },
+    {
+        "L2RPNReward": 48.83940124511719,
+        "grid_operation_cost": 448.74609375
+    },
+    {
+        "L2RPNReward": 48.83823776245117,
+        "grid_operation_cost": 448.0546875
+    },
+    {
+        "L2RPNReward": 48.77305221557617,
+        "grid_operation_cost": 446.291015625
+    },
+    {
+        "L2RPNReward": 48.82144546508789,
+        "grid_operation_cost": 441.591796875
+    },
+    {
+        "L2RPNReward": 48.767337799072266,
+        "grid_operation_cost": 444.380859375
+    },
+    {
+        "L2RPNReward": 48.75481414794922,
+        "grid_operation_cost": 445.716796875
+    },
+    {
+        "L2RPNReward": 48.80549240112305,
+        "grid_operation_cost": 445.763671875
+    },
+    {
+        "L2RPNReward": 48.826595306396484,
+        "grid_operation_cost": 443.501953125
+    },
+    {
+        "L2RPNReward": 48.763404846191406,
+        "grid_operation_cost": 446.296875
+    },
+    {
+        "L2RPNReward": 48.814292907714844,
+        "grid_operation_cost": 444.134765625
+    },
+    {
+        "L2RPNReward": 48.805397033691406,
+        "grid_operation_cost": 444.421875
+    },
+    {
+        "L2RPNReward": 48.80131149291992,
+        "grid_operation_cost": 446.1328125
+    },
+    {
+        "L2RPNReward": 48.81033706665039,
+        "grid_operation_cost": 440.384765625
+    },
+    {
+        "L2RPNReward": 48.73019790649414,
+        "grid_operation_cost": 441.01171875
+    },
+    {
+        "L2RPNReward": 48.83564758300781,
+        "grid_operation_cost": 434.337890625
+    },
+    {
+        "L2RPNReward": 48.79145431518555,
+        "grid_operation_cost": 436.23046875
+    },
+    {
+        "L2RPNReward": 48.797420501708984,
+        "grid_operation_cost": 432.4453125
+    },
+    {
+        "L2RPNReward": 48.842567443847656,
+        "grid_operation_cost": 429.76171875
+    },
+    {
+        "L2RPNReward": 48.806888580322266,
+        "grid_operation_cost": 430.048828125
+    },
+    {
+        "L2RPNReward": 48.88642120361328,
+        "grid_operation_cost": 429.556640625
+    },
+    {
+        "L2RPNReward": 48.83704376220703,
+        "grid_operation_cost": 433.306640625
+    },
+    {
+        "L2RPNReward": 48.82136154174805,
+        "grid_operation_cost": 433.494140625
+    },
+    {
+        "L2RPNReward": 48.985530853271484,
+        "grid_operation_cost": 424.88671875
+    },
+    {
+        "L2RPNReward": 49.00580596923828,
+        "grid_operation_cost": 428.115234375
+    },
+    {
+        "L2RPNReward": 48.96440887451172,
+        "grid_operation_cost": 429.591796875
+    },
+    {
+        "L2RPNReward": 48.95652770996094,
+        "grid_operation_cost": 425.91796875
+    },
+    {
+        "L2RPNReward": 49.07477951049805,
+        "grid_operation_cost": 417.87890625
+    },
+    {
+        "L2RPNReward": 49.08449172973633,
+        "grid_operation_cost": 414.48046875
+    },
+    {
+        "L2RPNReward": 49.038169860839844,
+        "grid_operation_cost": 420.544921875
+    },
+    {
+        "L2RPNReward": 49.01058578491211,
+        "grid_operation_cost": 426.7265625
+    },
+    {
+        "L2RPNReward": 48.93537139892578,
+        "grid_operation_cost": 424.265625
+    },
+    {
+        "L2RPNReward": 48.998451232910156,
+        "grid_operation_cost": 421.6875
+    },
+    {
+        "L2RPNReward": 48.92902374267578,
+        "grid_operation_cost": 423.978515625
+    },
+    {
+        "L2RPNReward": 48.9998664855957,
+        "grid_operation_cost": 417.615234375
+    },
+    {
+        "L2RPNReward": 48.96174621582031,
+        "grid_operation_cost": 420.140625
+    },
+    {
+        "L2RPNReward": 48.988704681396484,
+        "grid_operation_cost": 420.9140625
+    },
+    {
+        "L2RPNReward": 48.88111114501953,
+        "grid_operation_cost": 423.884765625
+    },
+    {
+        "L2RPNReward": 48.86762619018555,
+        "grid_operation_cost": 424.7109375
+    },
+    {
+        "L2RPNReward": 48.990089416503906,
+        "grid_operation_cost": 416.115234375
+    },
+    {
+        "L2RPNReward": 48.901248931884766,
+        "grid_operation_cost": 419.935546875
+    },
+    {
+        "L2RPNReward": 49.174415588378906,
+        "grid_operation_cost": 411.9609375
+    },
+    {
+        "L2RPNReward": 49.09531021118164,
+        "grid_operation_cost": 408.48046875
+    },
+    {
+        "L2RPNReward": 48.99531173706055,
+        "grid_operation_cost": 413.794921875
+    },
+    {
+        "L2RPNReward": 49.019287109375,
+        "grid_operation_cost": 409.798828125
+    },
+    {
+        "L2RPNReward": 49.11996841430664,
+        "grid_operation_cost": 402.3984375
+    },
+    {
+        "L2RPNReward": 48.95718002319336,
+        "grid_operation_cost": 409.611328125
+    },
+    {
+        "L2RPNReward": 48.968963623046875,
+        "grid_operation_cost": 408.322265625
+    },
+    {
+        "L2RPNReward": 48.89228439331055,
+        "grid_operation_cost": 413.396484375
+    },
+    {
+        "L2RPNReward": 48.90724182128906,
+        "grid_operation_cost": 412.470703125
+    },
+    {
+        "L2RPNReward": 48.94439697265625,
+        "grid_operation_cost": 410.765625
+    },
+    {
+        "L2RPNReward": 48.93783187866211,
+        "grid_operation_cost": 407.91796875
+    },
+    {
+        "L2RPNReward": 48.98271942138672,
+        "grid_operation_cost": 404.431640625
+    },
+    {
+        "L2RPNReward": 49.020381927490234,
+        "grid_operation_cost": 402.556640625
+    },
+    {
+        "L2RPNReward": 49.07243347167969,
+        "grid_operation_cost": 399.01171875
+    },
+    {
+        "L2RPNReward": 48.97386169433594,
+        "grid_operation_cost": 401.654296875
+    },
+    {
+        "L2RPNReward": 49.122589111328125,
+        "grid_operation_cost": 392.783203125
+    },
+    {
+        "L2RPNReward": 49.21186065673828,
+        "grid_operation_cost": 385.611328125
+    },
+    {
+        "L2RPNReward": 49.10638427734375,
+        "grid_operation_cost": 391.154296875
+    },
+    {
+        "L2RPNReward": 49.120113372802734,
+        "grid_operation_cost": 391.658203125
+    },
+    {
+        "L2RPNReward": 49.163448333740234,
+        "grid_operation_cost": 387.3515625
+    },
+    {
+        "L2RPNReward": 49.178096771240234,
+        "grid_operation_cost": 387.05859375
+    },
+    {
+        "L2RPNReward": 49.27803421020508,
+        "grid_operation_cost": 380.607421875
+    },
+    {
+        "L2RPNReward": 49.460018157958984,
+        "grid_operation_cost": 370.8515625
+    },
+    {
+        "L2RPNReward": 49.381507873535156,
+        "grid_operation_cost": 378.64453125
+    },
+    {
+        "L2RPNReward": 49.32391357421875,
+        "grid_operation_cost": 378.580078125
+    },
+    {
+        "L2RPNReward": 49.46154022216797,
+        "grid_operation_cost": 371.548828125
+    },
+    {
+        "L2RPNReward": 49.553627014160156,
+        "grid_operation_cost": 370.44140625
+    },
+    {
+        "L2RPNReward": 49.469478607177734,
+        "grid_operation_cost": 375.369140625
+    },
+    {
+        "L2RPNReward": 49.482810974121094,
+        "grid_operation_cost": 374.689453125
+    },
+    {
+        "L2RPNReward": 49.417137145996094,
+        "grid_operation_cost": 376.376953125
+    },
+    {
+        "L2RPNReward": 49.377384185791016,
+        "grid_operation_cost": 381.603515625
+    },
+    {
+        "L2RPNReward": 49.35909652709961,
+        "grid_operation_cost": 383.044921875
+    },
+    {
+        "L2RPNReward": 49.30718231201172,
+        "grid_operation_cost": 388.0078125
+    },
+    {
+        "L2RPNReward": 49.31281661987305,
+        "grid_operation_cost": 389.349609375
+    },
+    {
+        "L2RPNReward": 49.11342239379883,
+        "grid_operation_cost": 395.19140625
+    },
+    {
+        "L2RPNReward": 49.09442138671875,
+        "grid_operation_cost": 398.68359375
+    },
+    {
+        "L2RPNReward": 49.19503402709961,
+        "grid_operation_cost": 401.34375
+    },
+    {
+        "L2RPNReward": 48.92662048339844,
+        "grid_operation_cost": 410.923828125
+    },
+    {
+        "L2RPNReward": 48.78632736206055,
+        "grid_operation_cost": 416.51953125
+    },
+    {
+        "L2RPNReward": 48.74509048461914,
+        "grid_operation_cost": 420.251953125
+    },
+    {
+        "L2RPNReward": 48.64809799194336,
+        "grid_operation_cost": 427.60546875
+    },
+    {
+        "L2RPNReward": 48.59160614013672,
+        "grid_operation_cost": 432.046875
+    },
+    {
+        "L2RPNReward": 48.43960952758789,
+        "grid_operation_cost": 437.525390625
+    },
+    {
+        "L2RPNReward": 48.4522705078125,
+        "grid_operation_cost": 441.85546875
+    },
+    {
+        "L2RPNReward": 48.464744567871094,
+        "grid_operation_cost": 443.19140625
+    },
+    {
+        "L2RPNReward": 48.17270278930664,
+        "grid_operation_cost": 457.37109375
+    },
+    {
+        "L2RPNReward": 48.05727767944336,
+        "grid_operation_cost": 457.822265625
+    },
+    {
+        "L2RPNReward": 47.959571838378906,
+        "grid_operation_cost": 459.50390625
+    },
+    {
+        "L2RPNReward": 47.92563247680664,
+        "grid_operation_cost": 466.669921875
+    },
+    {
+        "L2RPNReward": 47.94804000854492,
+        "grid_operation_cost": 469.845703125
+    },
+    {
+        "L2RPNReward": 47.95016098022461,
+        "grid_operation_cost": 469.265625
+    },
+    {
+        "L2RPNReward": 47.93073654174805,
+        "grid_operation_cost": 471.603515625
+    },
+    {
+        "L2RPNReward": 47.93288803100586,
+        "grid_operation_cost": 471.33984375
+    },
+    {
+        "L2RPNReward": 48.04045104980469,
+        "grid_operation_cost": 467.6484375
+    },
+    {
+        "L2RPNReward": 48.141014099121094,
+        "grid_operation_cost": 461.654296875
+    },
+    {
+        "L2RPNReward": 48.336429595947266,
+        "grid_operation_cost": 450.71484375
+    },
+    {
+        "L2RPNReward": 48.41255187988281,
+        "grid_operation_cost": 447.7734375
+    },
+    {
+        "L2RPNReward": 48.40864181518555,
+        "grid_operation_cost": 448.083984375
+    },
+    {
+        "L2RPNReward": 48.55623245239258,
+        "grid_operation_cost": 439.8984375
+    },
+    {
+        "L2RPNReward": 48.63804626464844,
+        "grid_operation_cost": 431.771484375
+    },
+    {
+        "L2RPNReward": 48.70627212524414,
+        "grid_operation_cost": 430.564453125
+    },
+    {
+        "L2RPNReward": 48.879119873046875,
+        "grid_operation_cost": 421.55859375
+    },
+    {
+        "L2RPNReward": 48.92637634277344,
+        "grid_operation_cost": 415.857421875
+    },
+    {
+        "L2RPNReward": 49.05669403076172,
+        "grid_operation_cost": 407.44921875
+    },
+    {
+        "L2RPNReward": 49.09748077392578,
+        "grid_operation_cost": 409.787109375
+    },
+    {
+        "L2RPNReward": 49.175315856933594,
+        "grid_operation_cost": 401.513671875
+    },
+    {
+        "L2RPNReward": 49.326026916503906,
+        "grid_operation_cost": 393.03515625
+    },
+    {
+        "L2RPNReward": 49.46294021606445,
+        "grid_operation_cost": 383.466796875
+    },
+    {
+        "L2RPNReward": 49.434722900390625,
+        "grid_operation_cost": 386.455078125
+    },
+    {
+        "L2RPNReward": 49.585079193115234,
+        "grid_operation_cost": 377.68359375
+    },
+    {
+        "L2RPNReward": 49.68581771850586,
+        "grid_operation_cost": 371.771484375
+    },
+    {
+        "L2RPNReward": 49.61855697631836,
+        "grid_operation_cost": 373.787109375
+    },
+    {
+        "L2RPNReward": 49.740135192871094,
+        "grid_operation_cost": 367.39453125
+    },
+    {
+        "L2RPNReward": 49.821205139160156,
+        "grid_operation_cost": 360.609375
+    },
+    {
+        "L2RPNReward": 49.88835906982422,
+        "grid_operation_cost": 356.748046875
+    },
+    {
+        "L2RPNReward": 49.95909118652344,
+        "grid_operation_cost": 351.779296875
+    },
+    {
+        "L2RPNReward": 49.98530960083008,
+        "grid_operation_cost": 348.826171875
+    },
+    {
+        "L2RPNReward": 50.187652587890625,
+        "grid_operation_cost": 342.462890625
+    },
+    {
+        "L2RPNReward": 50.12514114379883,
+        "grid_operation_cost": 347.6953125
+    },
+    {
+        "L2RPNReward": 50.362770080566406,
+        "grid_operation_cost": 340.55859375
+    },
+    {
+        "L2RPNReward": 50.51356506347656,
+        "grid_operation_cost": 340.060546875
+    },
+    {
+        "L2RPNReward": 50.362220764160156,
+        "grid_operation_cost": 338.455078125
+    },
+    {
+        "L2RPNReward": 50.50926971435547,
+        "grid_operation_cost": 331.32421875
+    },
+    {
+        "L2RPNReward": 50.4532585144043,
+        "grid_operation_cost": 336.75
+    },
+    {
+        "L2RPNReward": 50.60463333129883,
+        "grid_operation_cost": 331.201171875
+    },
+    {
+        "L2RPNReward": 50.57167434692383,
+        "grid_operation_cost": 339.5390625
+    },
+    {
+        "L2RPNReward": 50.571868896484375,
+        "grid_operation_cost": 334.6171875
+    },
+    {
+        "L2RPNReward": 50.65299606323242,
+        "grid_operation_cost": 337.06640625
+    },
+    {
+        "L2RPNReward": 50.7257194519043,
+        "grid_operation_cost": 338.724609375
+    },
+    {
+        "L2RPNReward": 50.6686897277832,
+        "grid_operation_cost": 338.71875
+    },
+    {
+        "L2RPNReward": 50.59966278076172,
+        "grid_operation_cost": 337.775390625
+    },
+    {
+        "L2RPNReward": 50.51911926269531,
+        "grid_operation_cost": 331.921875
+    },
+    {
+        "L2RPNReward": 50.396602630615234,
+        "grid_operation_cost": 337.8984375
+    },
+    {
+        "L2RPNReward": 50.29403305053711,
+        "grid_operation_cost": 334.552734375
+    },
+    {
+        "L2RPNReward": 50.04560470581055,
+        "grid_operation_cost": 340.5703125
+    },
+    {
+        "L2RPNReward": 49.945831298828125,
+        "grid_operation_cost": 346.0078125
+    },
+    {
+        "L2RPNReward": 49.93553924560547,
+        "grid_operation_cost": 347.8125
+    },
+    {
+        "L2RPNReward": 49.83080291748047,
+        "grid_operation_cost": 353.21484375
+    },
+    {
+        "L2RPNReward": 49.84364318847656,
+        "grid_operation_cost": 353.923828125
+    },
+    {
+        "L2RPNReward": 49.89596939086914,
+        "grid_operation_cost": 354.1171875
+    },
+    {
+        "L2RPNReward": 49.866790771484375,
+        "grid_operation_cost": 354.9375
+    },
+    {
+        "L2RPNReward": 49.85816955566406,
+        "grid_operation_cost": 357.29296875
+    },
+    {
+        "L2RPNReward": 50.046104431152344,
+        "grid_operation_cost": 346.716796875
+    },
+    {
+        "L2RPNReward": 49.94228744506836,
+        "grid_operation_cost": 352.69921875
+    },
+    {
+        "L2RPNReward": 50.11209487915039,
+        "grid_operation_cost": 347.009765625
+    },
+    {
+        "L2RPNReward": 50.329246520996094,
+        "grid_operation_cost": 341.0625
+    },
+    {
+        "L2RPNReward": 50.42863845825195,
+        "grid_operation_cost": 343.447265625
+    },
+    {
+        "L2RPNReward": 50.506317138671875,
+        "grid_operation_cost": 344.28515625
+    },
+    {
+        "L2RPNReward": 50.68269729614258,
+        "grid_operation_cost": 338.4375
+    },
+    {
+        "L2RPNReward": 50.706687927246094,
+        "grid_operation_cost": 340.294921875
+    },
+    {
+        "L2RPNReward": 50.896331787109375,
+        "grid_operation_cost": 337.72265625
+    },
+    {
+        "L2RPNReward": 50.91828155517578,
+        "grid_operation_cost": 339.708984375
+    },
+    {
+        "L2RPNReward": 51.04729461669922,
+        "grid_operation_cost": 337.4765625
+    },
+    {
+        "L2RPNReward": 51.077213287353516,
+        "grid_operation_cost": 340.083984375
+    },
+    {
+        "L2RPNReward": 51.33501434326172,
+        "grid_operation_cost": 332.525390625
+    },
+    {
+        "L2RPNReward": 51.3481330871582,
+        "grid_operation_cost": 336.169921875
+    },
+    {
+        "L2RPNReward": 51.294193267822266,
+        "grid_operation_cost": 344.94140625
+    },
+    {
+        "L2RPNReward": 51.44045639038086,
+        "grid_operation_cost": 340.30078125
+    },
+    {
+        "L2RPNReward": 51.45110321044922,
+        "grid_operation_cost": 346.0546875
+    },
+    {
+        "L2RPNReward": 51.5408935546875,
+        "grid_operation_cost": 344.759765625
+    },
+    {
+        "L2RPNReward": 51.506248474121094,
+        "grid_operation_cost": 349.259765625
+    },
+    {
+        "L2RPNReward": 51.44268798828125,
+        "grid_operation_cost": 342.231689453125
+    },
+    {
+        "L2RPNReward": 51.40446853637695,
+        "grid_operation_cost": 345.881591796875
+    },
+    {
+        "L2RPNReward": 51.292545318603516,
+        "grid_operation_cost": 353.669921875
+    },
+    {
+        "L2RPNReward": 51.26909255981445,
+        "grid_operation_cost": 357.173828125
+    },
+    {
+        "L2RPNReward": 51.25300216674805,
+        "grid_operation_cost": 356.505615234375
+    },
+    {
+        "L2RPNReward": 51.21200942993164,
+        "grid_operation_cost": 358.4990234375
+    },
+    {
+        "L2RPNReward": 51.03177261352539,
+        "grid_operation_cost": 364.66455078125
+    },
+    {
+        "L2RPNReward": 51.000511169433594,
+        "grid_operation_cost": 365.984130859375
+    },
+    {
+        "L2RPNReward": 50.81541442871094,
+        "grid_operation_cost": 372.6915283203125
+    },
+    {
+        "L2RPNReward": 50.799171447753906,
+        "grid_operation_cost": 373.6573486328125
+    },
+    {
+        "L2RPNReward": 50.67816162109375,
+        "grid_operation_cost": 381.03857421875
+    },
+    {
+        "L2RPNReward": 50.62014389038086,
+        "grid_operation_cost": 383.818115234375
+    },
+    {
+        "L2RPNReward": 50.65586471557617,
+        "grid_operation_cost": 382.279541015625
+    },
+    {
+        "L2RPNReward": 50.50434494018555,
+        "grid_operation_cost": 391.0140380859375
+    },
+    {
+        "L2RPNReward": 50.28055191040039,
+        "grid_operation_cost": 401.3741455078125
+    },
+    {
+        "L2RPNReward": 50.50382614135742,
+        "grid_operation_cost": 410.71875
+    },
+    {
+        "L2RPNReward": 50.51165008544922,
+        "grid_operation_cost": 414.556640625
+    },
+    {
+        "L2RPNReward": 50.11863327026367,
+        "grid_operation_cost": 431.96484375
+    },
+    {
+        "L2RPNReward": 50.15385055541992,
+        "grid_operation_cost": 429.3544921875
+    },
+    {
+        "L2RPNReward": 49.85396194458008,
+        "grid_operation_cost": 443.2646484375
+    },
+    {
+        "L2RPNReward": 49.70090103149414,
+        "grid_operation_cost": 450.55078125
+    },
+    {
+        "L2RPNReward": 49.42568588256836,
+        "grid_operation_cost": 463.0869140625
+    },
+    {
+        "L2RPNReward": 49.181461334228516,
+        "grid_operation_cost": 456.67578125
+    },
+    {
+        "L2RPNReward": 48.740211486816406,
+        "grid_operation_cost": 494.0625
+    },
+    {
+        "L2RPNReward": 48.744163513183594,
+        "grid_operation_cost": 468.900146484375
+    },
+    {
+        "L2RPNReward": 48.418880462646484,
+        "grid_operation_cost": 483.84228515625
+    },
+    {
+        "L2RPNReward": 48.06075668334961,
+        "grid_operation_cost": 520.5439453125
+    },
+    {
+        "L2RPNReward": 47.627872467041016,
+        "grid_operation_cost": 504.68170166015625
+    },
+    {
+        "L2RPNReward": 47.49532699584961,
+        "grid_operation_cost": 522.02587890625
+    },
+    {
+        "L2RPNReward": 47.70573043823242,
+        "grid_operation_cost": 514.8411865234375
+    },
+    {
+        "L2RPNReward": 47.48822784423828,
+        "grid_operation_cost": 510.9686279296875
+    },
+    {
+        "L2RPNReward": 47.33396911621094,
+        "grid_operation_cost": 516.6348266601562
+    },
+    {
+        "L2RPNReward": 47.23149108886719,
+        "grid_operation_cost": 523.7100219726562
+    },
+    {
+        "L2RPNReward": 47.02358627319336,
+        "grid_operation_cost": 520.182373046875
+    },
+    {
+        "L2RPNReward": 46.99720001220703,
+        "grid_operation_cost": 520.0078125
+    },
+    {
+        "L2RPNReward": 46.96519088745117,
+        "grid_operation_cost": 521.659423828125
+    },
+    {
+        "L2RPNReward": 46.844581604003906,
+        "grid_operation_cost": 526.94189453125
+    },
+    {
+        "L2RPNReward": 46.32497787475586,
+        "grid_operation_cost": 551.152099609375
+    },
+    {
+        "L2RPNReward": 46.558773040771484,
+        "grid_operation_cost": 538.551513671875
+    },
+    {
+        "L2RPNReward": 46.23188781738281,
+        "grid_operation_cost": 504.23828125
+    },
+    {
+        "L2RPNReward": 46.26872634887695,
+        "grid_operation_cost": 503.4326171875
+    },
+    {
+        "L2RPNReward": 46.4521484375,
+        "grid_operation_cost": 494.49462890625
+    },
+    {
+        "L2RPNReward": 46.55948257446289,
+        "grid_operation_cost": 537.42626953125
+    },
+    {
+        "L2RPNReward": 46.69191360473633,
+        "grid_operation_cost": 534.2626953125
+    },
+    {
+        "L2RPNReward": 46.77186965942383,
+        "grid_operation_cost": 527.9033203125
+    },
+    {
+        "L2RPNReward": 46.925777435302734,
+        "grid_operation_cost": 531.419677734375
+    },
+    {
+        "L2RPNReward": 47.09707260131836,
+        "grid_operation_cost": 524.0313720703125
+    },
+    {
+        "L2RPNReward": 47.07786560058594,
+        "grid_operation_cost": 523.2815551757812
+    },
+    {
+        "L2RPNReward": 47.121334075927734,
+        "grid_operation_cost": 523.4518432617188
+    },
+    {
+        "L2RPNReward": 47.286590576171875,
+        "grid_operation_cost": 514.061279296875
+    },
+    {
+        "L2RPNReward": 47.519981384277344,
+        "grid_operation_cost": 521.8265380859375
+    },
+    {
+        "L2RPNReward": 47.90491485595703,
+        "grid_operation_cost": 505.4132080078125
+    },
+    {
+        "L2RPNReward": 48.277069091796875,
+        "grid_operation_cost": 492.1219482421875
+    },
+    {
+        "L2RPNReward": 48.377445220947266,
+        "grid_operation_cost": 491.1898193359375
+    },
+    {
+        "L2RPNReward": 48.6447868347168,
+        "grid_operation_cost": 479.5606689453125
+    },
+    {
+        "L2RPNReward": 48.9450569152832,
+        "grid_operation_cost": 467.28857421875
+    },
+    {
+        "L2RPNReward": 49.11329650878906,
+        "grid_operation_cost": 461.20166015625
+    },
+    {
+        "L2RPNReward": 49.53001022338867,
+        "grid_operation_cost": 442.4664306640625
+    },
+    {
+        "L2RPNReward": 49.687652587890625,
+        "grid_operation_cost": 436.00048828125
+    },
+    {
+        "L2RPNReward": 49.72576904296875,
+        "grid_operation_cost": 435.410888671875
+    },
+    {
+        "L2RPNReward": 50.009307861328125,
+        "grid_operation_cost": 439.4912109375
+    },
+    {
+        "L2RPNReward": 50.2498664855957,
+        "grid_operation_cost": 426.158203125
+    },
+    {
+        "L2RPNReward": 50.28190994262695,
+        "grid_operation_cost": 423.205078125
+    },
+    {
+        "L2RPNReward": 50.46424865722656,
+        "grid_operation_cost": 411.83203125
+    },
+    {
+        "L2RPNReward": 50.57013702392578,
+        "grid_operation_cost": 407.525390625
+    },
+    {
+        "L2RPNReward": 50.584957122802734,
+        "grid_operation_cost": 404.51953125
+    },
+    {
+        "L2RPNReward": 50.59360885620117,
+        "grid_operation_cost": 402.1875
+    },
+    {
+        "L2RPNReward": 50.60647201538086,
+        "grid_operation_cost": 401.490234375
+    },
+    {
+        "L2RPNReward": 50.71774673461914,
+        "grid_operation_cost": 392.80078125
+    },
+    {
+        "L2RPNReward": 50.64540100097656,
+        "grid_operation_cost": 394.787109375
+    },
+    {
+        "L2RPNReward": 50.617069244384766,
+        "grid_operation_cost": 393.158203125
+    },
+    {
+        "L2RPNReward": 50.78419876098633,
+        "grid_operation_cost": 383.080078125
+    },
+    {
+        "L2RPNReward": 50.88682174682617,
+        "grid_operation_cost": 374.337890625
+    },
+    {
+        "L2RPNReward": 50.74891662597656,
+        "grid_operation_cost": 378.97265625
+    },
+    {
+        "L2RPNReward": 50.844242095947266,
+        "grid_operation_cost": 369.826171875
+    },
+    {
+        "L2RPNReward": 50.79877853393555,
+        "grid_operation_cost": 370.13671875
+    },
+    {
+        "L2RPNReward": 50.6695671081543,
+        "grid_operation_cost": 372.697265625
+    },
+    {
+        "L2RPNReward": 50.65055847167969,
+        "grid_operation_cost": 371.7421875
+    },
+    {
+        "L2RPNReward": 50.58890914916992,
+        "grid_operation_cost": 369.673828125
+    },
+    {
+        "L2RPNReward": 50.536556243896484,
+        "grid_operation_cost": 368.865234375
+    },
+    {
+        "L2RPNReward": 50.55134582519531,
+        "grid_operation_cost": 365.56640625
+    },
+    {
+        "L2RPNReward": 50.40403747558594,
+        "grid_operation_cost": 370.599609375
+    },
+    {
+        "L2RPNReward": 50.285858154296875,
+        "grid_operation_cost": 373.154296875
+    },
+    {
+        "L2RPNReward": 50.362457275390625,
+        "grid_operation_cost": 362.49609375
+    },
+    {
+        "L2RPNReward": 50.18524932861328,
+        "grid_operation_cost": 367.21875
+    },
+    {
+        "L2RPNReward": 49.93124771118164,
+        "grid_operation_cost": 375.462890625
+    },
+    {
+        "L2RPNReward": 49.869606018066406,
+        "grid_operation_cost": 372.486328125
+    },
+    {
+        "L2RPNReward": 49.84136199951172,
+        "grid_operation_cost": 370.177734375
+    },
+    {
+        "L2RPNReward": 49.72404861450195,
+        "grid_operation_cost": 374.28515625
+    },
+    {
+        "L2RPNReward": 49.71246337890625,
+        "grid_operation_cost": 377.900390625
+    },
+    {
+        "L2RPNReward": 49.58675765991211,
+        "grid_operation_cost": 381.591796875
+    },
+    {
+        "L2RPNReward": 49.553218841552734,
+        "grid_operation_cost": 379.20703125
+    },
+    {
+        "L2RPNReward": 49.48701858520508,
+        "grid_operation_cost": 382.6640625
+    },
+    {
+        "L2RPNReward": 49.432891845703125,
+        "grid_operation_cost": 381.8671875
+    },
+    {
+        "L2RPNReward": 49.56635284423828,
+        "grid_operation_cost": 373.236328125
+    },
+    {
+        "L2RPNReward": 49.50571823120117,
+        "grid_operation_cost": 374.150390625
+    },
+    {
+        "L2RPNReward": 49.39115905761719,
+        "grid_operation_cost": 379.013671875
+    },
+    {
+        "L2RPNReward": 49.39080810546875,
+        "grid_operation_cost": 377.296875
+    },
+    {
+        "L2RPNReward": 49.28230285644531,
+        "grid_operation_cost": 380.84765625
+    },
+    {
+        "L2RPNReward": 49.28213882446289,
+        "grid_operation_cost": 382.494140625
+    },
+    {
+        "L2RPNReward": 49.33526611328125,
+        "grid_operation_cost": 376.83984375
+    },
+    {
+        "L2RPNReward": 49.358341217041016,
+        "grid_operation_cost": 376.98046875
+    },
+    {
+        "L2RPNReward": 49.30220413208008,
+        "grid_operation_cost": 379.259765625
+    },
+    {
+        "L2RPNReward": 49.359161376953125,
+        "grid_operation_cost": 374.794921875
+    },
+    {
+        "L2RPNReward": 49.35090637207031,
+        "grid_operation_cost": 370.962890625
+    },
+    {
+        "L2RPNReward": 49.42112731933594,
+        "grid_operation_cost": 366.41015625
+    },
+    {
+        "L2RPNReward": 49.31733703613281,
+        "grid_operation_cost": 371.759765625
+    },
+    {
+        "L2RPNReward": 49.339664459228516,
+        "grid_operation_cost": 370.564453125
+    },
+    {
+        "L2RPNReward": 49.45636749267578,
+        "grid_operation_cost": 364.962890625
+    },
+    {
+        "L2RPNReward": 49.41968536376953,
+        "grid_operation_cost": 361.986328125
+    },
+    {
+        "L2RPNReward": 49.48118591308594,
+        "grid_operation_cost": 358.306640625
+    },
+    {
+        "L2RPNReward": 49.50525665283203,
+        "grid_operation_cost": 358.552734375
+    },
+    {
+        "L2RPNReward": 49.530723571777344,
+        "grid_operation_cost": 358.259765625
+    },
+    {
+        "L2RPNReward": 49.463096618652344,
+        "grid_operation_cost": 359.07421875
+    },
+    {
+        "L2RPNReward": 49.64256286621094,
+        "grid_operation_cost": 351.09375
+    },
+    {
+        "L2RPNReward": 49.608642578125,
+        "grid_operation_cost": 349.828125
+    },
+    {
+        "L2RPNReward": 49.65763854980469,
+        "grid_operation_cost": 346.79296875
+    },
+    {
+        "L2RPNReward": 49.66019058227539,
+        "grid_operation_cost": 349.34765625
+    },
+    {
+        "L2RPNReward": 49.60531997680664,
+        "grid_operation_cost": 351.0234375
+    },
+    {
+        "L2RPNReward": 49.69125747680664,
+        "grid_operation_cost": 343.904296875
+    },
+    {
+        "L2RPNReward": 49.69873809814453,
+        "grid_operation_cost": 346.69921875
+    },
+    {
+        "L2RPNReward": 49.74467849731445,
+        "grid_operation_cost": 342.4453125
+    },
+    {
+        "L2RPNReward": 49.70943832397461,
+        "grid_operation_cost": 346.171875
+    },
+    {
+        "L2RPNReward": 49.7668571472168,
+        "grid_operation_cost": 343.470703125
+    },
+    {
+        "L2RPNReward": 49.80177307128906,
+        "grid_operation_cost": 342.814453125
+    },
+    {
+        "L2RPNReward": 49.84462356567383,
+        "grid_operation_cost": 337.728515625
+    },
+    {
+        "L2RPNReward": 49.82152557373047,
+        "grid_operation_cost": 343.693359375
+    },
+    {
+        "L2RPNReward": 49.84269332885742,
+        "grid_operation_cost": 341.94140625
+    },
+    {
+        "L2RPNReward": 49.73684310913086,
+        "grid_operation_cost": 345.568359375
+    },
+    {
+        "L2RPNReward": 49.644920349121094,
+        "grid_operation_cost": 350.66015625
+    },
+    {
+        "L2RPNReward": 49.699398040771484,
+        "grid_operation_cost": 351.556640625
+    },
+    {
+        "L2RPNReward": 49.66476821899414,
+        "grid_operation_cost": 352.669921875
+    },
+    {
+        "L2RPNReward": 49.596153259277344,
+        "grid_operation_cost": 353.00390625
+    },
+    {
+        "L2RPNReward": 49.6620979309082,
+        "grid_operation_cost": 350.982421875
+    },
+    {
+        "L2RPNReward": 49.79553985595703,
+        "grid_operation_cost": 343.39453125
+    },
+    {
+        "L2RPNReward": 49.817867279052734,
+        "grid_operation_cost": 342.8671875
+    },
+    {
+        "L2RPNReward": 49.87260818481445,
+        "grid_operation_cost": 337.91015625
+    },
+    {
+        "L2RPNReward": 49.849002838134766,
+        "grid_operation_cost": 337.423828125
+    },
+    {
+        "L2RPNReward": 49.78668212890625,
+        "grid_operation_cost": 340.259765625
+    },
+    {
+        "L2RPNReward": 49.783233642578125,
+        "grid_operation_cost": 341.82421875
+    },
+    {
+        "L2RPNReward": 49.721797943115234,
+        "grid_operation_cost": 345.697265625
+    },
+    {
+        "L2RPNReward": 49.823482513427734,
+        "grid_operation_cost": 338.654296875
+    },
+    {
+        "L2RPNReward": 49.69210433959961,
+        "grid_operation_cost": 343.41796875
+    },
+    {
+        "L2RPNReward": 49.70387268066406,
+        "grid_operation_cost": 348.046875
+    },
+    {
+        "L2RPNReward": 49.58979034423828,
+        "grid_operation_cost": 353.6484375
+    },
+    {
+        "L2RPNReward": 49.59720993041992,
+        "grid_operation_cost": 352.716796875
+    },
+    {
+        "L2RPNReward": 49.60315704345703,
+        "grid_operation_cost": 349.494140625
+    },
+    {
+        "L2RPNReward": 49.69759750366211,
+        "grid_operation_cost": 344.208984375
+    },
+    {
+        "L2RPNReward": 49.845069885253906,
+        "grid_operation_cost": 337.7109375
+    },
+    {
+        "L2RPNReward": 50.09526824951172,
+        "grid_operation_cost": 330.69140625
+    },
+    {
+        "L2RPNReward": 50.00913619995117,
+        "grid_operation_cost": 328.611328125
+    },
+    {
+        "L2RPNReward": 50.063194274902344,
+        "grid_operation_cost": 323.771484375
+    },
+    {
+        "L2RPNReward": 49.97202682495117,
+        "grid_operation_cost": 328.892578125
+    },
+    {
+        "L2RPNReward": 49.99446105957031,
+        "grid_operation_cost": 330.1171875
+    },
+    {
+        "L2RPNReward": 50.12847137451172,
+        "grid_operation_cost": 323.091796875
+    },
+    {
+        "L2RPNReward": 50.07307815551758,
+        "grid_operation_cost": 326.66015625
+    },
+    {
+        "L2RPNReward": 50.058597564697266,
+        "grid_operation_cost": 329.71875
+    },
+    {
+        "L2RPNReward": 49.89981460571289,
+        "grid_operation_cost": 334.25390625
+    },
+    {
+        "L2RPNReward": 49.87333297729492,
+        "grid_operation_cost": 338.37890625
+    },
+    {
+        "L2RPNReward": 49.83452606201172,
+        "grid_operation_cost": 340.423828125
+    },
+    {
+        "L2RPNReward": 49.802734375,
+        "grid_operation_cost": 344.923828125
+    },
+    {
+        "L2RPNReward": 49.76355743408203,
+        "grid_operation_cost": 347.73046875
+    },
+    {
+        "L2RPNReward": 49.9229736328125,
+        "grid_operation_cost": 341.96484375
+    },
+    {
+        "L2RPNReward": 49.8321533203125,
+        "grid_operation_cost": 345.533203125
+    },
+    {
+        "L2RPNReward": 49.9971809387207,
+        "grid_operation_cost": 339.15234375
+    },
+    {
+        "L2RPNReward": 49.96256637573242,
+        "grid_operation_cost": 341.89453125
+    },
+    {
+        "L2RPNReward": 49.914424896240234,
+        "grid_operation_cost": 343.142578125
+    },
+    {
+        "L2RPNReward": 50.009765625,
+        "grid_operation_cost": 337.53515625
+    },
+    {
+        "L2RPNReward": 50.1694450378418,
+        "grid_operation_cost": 334.576171875
+    },
+    {
+        "L2RPNReward": 49.97843933105469,
+        "grid_operation_cost": 342.931640625
+    },
+    {
+        "L2RPNReward": 50.03069305419922,
+        "grid_operation_cost": 343.37109375
+    },
+    {
+        "L2RPNReward": 50.115135192871094,
+        "grid_operation_cost": 339.216796875
+    },
+    {
+        "L2RPNReward": 50.03464126586914,
+        "grid_operation_cost": 344.302734375
+    },
+    {
+        "L2RPNReward": 50.060935974121094,
+        "grid_operation_cost": 343.470703125
+    },
+    {
+        "L2RPNReward": 49.895530700683594,
+        "grid_operation_cost": 353.6484375
+    },
+    {
+        "L2RPNReward": 49.9432487487793,
+        "grid_operation_cost": 352.998046875
+    },
+    {
+        "L2RPNReward": 50.0333251953125,
+        "grid_operation_cost": 352.3828125
+    },
+    {
+        "L2RPNReward": 50.09635925292969,
+        "grid_operation_cost": 346.81640625
+    },
+    {
+        "L2RPNReward": 49.8597412109375,
+        "grid_operation_cost": 355.025390625
+    },
+    {
+        "L2RPNReward": 49.93796920776367,
+        "grid_operation_cost": 352.986328125
+    },
+    {
+        "L2RPNReward": 49.93293762207031,
+        "grid_operation_cost": 356.244140625
+    },
+    {
+        "L2RPNReward": 49.882301330566406,
+        "grid_operation_cost": 359.40234375
+    },
+    {
+        "L2RPNReward": 50.01811218261719,
+        "grid_operation_cost": 352.2421875
+    },
+    {
+        "L2RPNReward": 50.05191421508789,
+        "grid_operation_cost": 350.197265625
+    },
+    {
+        "L2RPNReward": 50.030330657958984,
+        "grid_operation_cost": 353.560546875
+    },
+    {
+        "L2RPNReward": 50.051212310791016,
+        "grid_operation_cost": 350.09765625
+    },
+    {
+        "L2RPNReward": 49.99055862426758,
+        "grid_operation_cost": 352.59375
+    },
+    {
+        "L2RPNReward": 49.92414093017578,
+        "grid_operation_cost": 356.783203125
+    },
+    {
+        "L2RPNReward": 49.922794342041016,
+        "grid_operation_cost": 356.5078125
+    },
+    {
+        "L2RPNReward": 50.161094665527344,
+        "grid_operation_cost": 348.140625
+    },
+    {
+        "L2RPNReward": 50.13396072387695,
+        "grid_operation_cost": 346.78125
+    },
+    {
+        "L2RPNReward": 50.2593994140625,
+        "grid_operation_cost": 342.955078125
+    },
+    {
+        "L2RPNReward": 50.1618537902832,
+        "grid_operation_cost": 345.978515625
+    },
+    {
+        "L2RPNReward": 50.13329315185547,
+        "grid_operation_cost": 349.458984375
+    },
+    {
+        "L2RPNReward": 50.072853088378906,
+        "grid_operation_cost": 356.16796875
+    },
+    {
+        "L2RPNReward": 50.11899948120117,
+        "grid_operation_cost": 354.31640625
+    },
+    {
+        "L2RPNReward": 49.90243911743164,
+        "grid_operation_cost": 367.083984375
+    },
+    {
+        "L2RPNReward": 49.964412689208984,
+        "grid_operation_cost": 367.0546875
+    },
+    {
+        "L2RPNReward": 49.79306411743164,
+        "grid_operation_cost": 372.943359375
+    },
+    {
+        "L2RPNReward": 49.74345779418945,
+        "grid_operation_cost": 377.765625
+    },
+    {
+        "L2RPNReward": 49.714454650878906,
+        "grid_operation_cost": 387.380859375
+    },
+    {
+        "L2RPNReward": 49.534305572509766,
+        "grid_operation_cost": 391.18359375
+    },
+    {
+        "L2RPNReward": 49.55952835083008,
+        "grid_operation_cost": 397.822265625
+    },
+    {
+        "L2RPNReward": 49.382530212402344,
+        "grid_operation_cost": 403.0546875
+    },
+    {
+        "L2RPNReward": 49.184444427490234,
+        "grid_operation_cost": 412.25390625
+    },
+    {
+        "L2RPNReward": 49.062042236328125,
+        "grid_operation_cost": 419.015625
+    },
+    {
+        "L2RPNReward": 48.84397888183594,
+        "grid_operation_cost": 430.125
+    },
+    {
+        "L2RPNReward": 49.054405212402344,
+        "grid_operation_cost": 420.19921875
+    },
+    {
+        "L2RPNReward": 48.98826217651367,
+        "grid_operation_cost": 423.609375
+    },
+    {
+        "L2RPNReward": 49.04100799560547,
+        "grid_operation_cost": 421.72265625
+    },
+    {
+        "L2RPNReward": 49.01314163208008,
+        "grid_operation_cost": 424.5234375
+    },
+    {
+        "L2RPNReward": 48.91661834716797,
+        "grid_operation_cost": 435.515625
+    },
+    {
+        "L2RPNReward": 48.555458068847656,
+        "grid_operation_cost": 447.65625
+    },
+    {
+        "L2RPNReward": 48.61708450317383,
+        "grid_operation_cost": 444.697265625
+    },
+    {
+        "L2RPNReward": 48.5281982421875,
+        "grid_operation_cost": 449.3671875
+    },
+    {
+        "L2RPNReward": 48.43155288696289,
+        "grid_operation_cost": 453.46875
+    },
+    {
+        "L2RPNReward": 48.45004653930664,
+        "grid_operation_cost": 452.865234375
+    },
+    {
+        "L2RPNReward": 48.46504592895508,
+        "grid_operation_cost": 452.982421875
+    },
+    {
+        "L2RPNReward": 48.620296478271484,
+        "grid_operation_cost": 446.26171875
+    },
+    {
+        "L2RPNReward": 48.453834533691406,
+        "grid_operation_cost": 453.05859375
+    },
+    {
+        "L2RPNReward": 48.43891525268555,
+        "grid_operation_cost": 455.033203125
+    },
+    {
+        "L2RPNReward": 48.60824203491211,
+        "grid_operation_cost": 444.50390625
+    },
+    {
+        "L2RPNReward": 48.58259582519531,
+        "grid_operation_cost": 449.0625
+    },
+    {
+        "L2RPNReward": 48.68855285644531,
+        "grid_operation_cost": 444.375
+    },
+    {
+        "L2RPNReward": 48.68009948730469,
+        "grid_operation_cost": 442.048828125
+    },
+    {
+        "L2RPNReward": 48.811580657958984,
+        "grid_operation_cost": 439.79296875
+    },
+    {
+        "L2RPNReward": 48.70009231567383,
+        "grid_operation_cost": 441.17578125
+    },
+    {
+        "L2RPNReward": 48.925445556640625,
+        "grid_operation_cost": 430.798828125
+    },
+    {
+        "L2RPNReward": 48.777610778808594,
+        "grid_operation_cost": 437.96484375
+    },
+    {
+        "L2RPNReward": 48.871212005615234,
+        "grid_operation_cost": 435.087890625
+    },
+    {
+        "L2RPNReward": 48.927276611328125,
+        "grid_operation_cost": 431.2265625
+    },
+    {
+        "L2RPNReward": 49.06413650512695,
+        "grid_operation_cost": 424.060546875
+    },
+    {
+        "L2RPNReward": 49.17258071899414,
+        "grid_operation_cost": 418.177734375
+    },
+    {
+        "L2RPNReward": 48.95392990112305,
+        "grid_operation_cost": 429.1640625
+    },
+    {
+        "L2RPNReward": 49.35071563720703,
+        "grid_operation_cost": 410.09765625
+    },
+    {
+        "L2RPNReward": 49.48090362548828,
+        "grid_operation_cost": 401.419921875
+    },
+    {
+        "L2RPNReward": 49.46111297607422,
+        "grid_operation_cost": 399.369140625
+    },
+    {
+        "L2RPNReward": 49.55756378173828,
+        "grid_operation_cost": 396.09375
+    },
+    {
+        "L2RPNReward": 49.66895294189453,
+        "grid_operation_cost": 390.392578125
+    },
+    {
+        "L2RPNReward": 49.903175354003906,
+        "grid_operation_cost": 377.203125
+    },
+    {
+        "L2RPNReward": 49.84957504272461,
+        "grid_operation_cost": 378.650390625
+    },
+    {
+        "L2RPNReward": 49.9124870300293,
+        "grid_operation_cost": 374.26171875
+    },
+    {
+        "L2RPNReward": 50.23242950439453,
+        "grid_operation_cost": 362.255859375
+    },
+    {
+        "L2RPNReward": 50.226844787597656,
+        "grid_operation_cost": 358.8515625
+    },
+    {
+        "L2RPNReward": 50.334381103515625,
+        "grid_operation_cost": 349.3359375
+    },
+    {
+        "L2RPNReward": 50.42506408691406,
+        "grid_operation_cost": 343.1953125
+    },
+    {
+        "L2RPNReward": 50.45115280151367,
+        "grid_operation_cost": 341.02734375
+    },
+    {
+        "L2RPNReward": 50.525978088378906,
+        "grid_operation_cost": 338.0390625
+    },
+    {
+        "L2RPNReward": 50.60377883911133,
+        "grid_operation_cost": 332.89453125
+    },
+    {
+        "L2RPNReward": 50.64795684814453,
+        "grid_operation_cost": 326.818359375
+    },
+    {
+        "L2RPNReward": 50.64250564575195,
+        "grid_operation_cost": 328.18359375
+    },
+    {
+        "L2RPNReward": 50.7009162902832,
+        "grid_operation_cost": 322.6875
+    },
+    {
+        "L2RPNReward": 50.72537612915039,
+        "grid_operation_cost": 318.345703125
+    },
+    {
+        "L2RPNReward": 50.69647216796875,
+        "grid_operation_cost": 317.9296875
+    },
+    {
+        "L2RPNReward": 50.635231018066406,
+        "grid_operation_cost": 322.69921875
+    },
+    {
+        "L2RPNReward": 50.768157958984375,
+        "grid_operation_cost": 320.654296875
+    },
+    {
+        "L2RPNReward": 50.92017364501953,
+        "grid_operation_cost": 318.837890625
+    },
+    {
+        "L2RPNReward": 51.055747985839844,
+        "grid_operation_cost": 319.91015625
+    },
+    {
+        "L2RPNReward": 50.96236038208008,
+        "grid_operation_cost": 324.521484375
+    },
+    {
+        "L2RPNReward": 50.83597946166992,
+        "grid_operation_cost": 326.888671875
+    },
+    {
+        "L2RPNReward": 50.54825973510742,
+        "grid_operation_cost": 336.3515625
+    },
+    {
+        "L2RPNReward": 50.27790451049805,
+        "grid_operation_cost": 343.283203125
+    },
+    {
+        "L2RPNReward": 50.245262145996094,
+        "grid_operation_cost": 345.4453125
+    },
+    {
+        "L2RPNReward": 50.07205581665039,
+        "grid_operation_cost": 356.5546875
+    },
+    {
+        "L2RPNReward": 50.12418746948242,
+        "grid_operation_cost": 353.77734375
+    },
+    {
+        "L2RPNReward": 50.10447311401367,
+        "grid_operation_cost": 355.564453125
+    },
+    {
+        "L2RPNReward": 50.07925796508789,
+        "grid_operation_cost": 357.474609375
+    },
+    {
+        "L2RPNReward": 50.1985969543457,
+        "grid_operation_cost": 345.462890625
+    },
+    {
+        "L2RPNReward": 50.14423751831055,
+        "grid_operation_cost": 347.923828125
+    },
+    {
+        "L2RPNReward": 50.279747009277344,
+        "grid_operation_cost": 343.400390625
+    },
+    {
+        "L2RPNReward": 50.24815368652344,
+        "grid_operation_cost": 340.9921875
+    },
+    {
+        "L2RPNReward": 50.33979415893555,
+        "grid_operation_cost": 336.48046875
+    },
+    {
+        "L2RPNReward": 50.3640251159668,
+        "grid_operation_cost": 332.748046875
+    },
+    {
+        "L2RPNReward": 50.471168518066406,
+        "grid_operation_cost": 327.4453125
+    },
+    {
+        "L2RPNReward": 50.345611572265625,
+        "grid_operation_cost": 332.859375
+    },
+    {
+        "L2RPNReward": 50.25592041015625,
+        "grid_operation_cost": 338.68359375
+    },
+    {
+        "L2RPNReward": 50.295345306396484,
+        "grid_operation_cost": 330.580078125
+    },
+    {
+        "L2RPNReward": 50.358150482177734,
+        "grid_operation_cost": 330.802734375
+    },
+    {
+        "L2RPNReward": 50.40970230102539,
+        "grid_operation_cost": 322.7578125
+    },
+    {
+        "L2RPNReward": 50.52804183959961,
+        "grid_operation_cost": 324.31640625
+    },
+    {
+        "L2RPNReward": 50.72800064086914,
+        "grid_operation_cost": 322.435546875
+    },
+    {
+        "L2RPNReward": 50.85680389404297,
+        "grid_operation_cost": 320.255859375
+    },
+    {
+        "L2RPNReward": 51.06480407714844,
+        "grid_operation_cost": 318.169921875
+    },
+    {
+        "L2RPNReward": 51.21099853515625,
+        "grid_operation_cost": 314.02734375
+    },
+    {
+        "L2RPNReward": 51.33134460449219,
+        "grid_operation_cost": 311.109375
+    },
+    {
+        "L2RPNReward": 51.5145378112793,
+        "grid_operation_cost": 308.578125
+    },
+    {
+        "L2RPNReward": 51.592689514160156,
+        "grid_operation_cost": 310.828125
+    },
+    {
+        "L2RPNReward": 51.72608184814453,
+        "grid_operation_cost": 311.84765625
+    },
+    {
+        "L2RPNReward": 51.846492767333984,
+        "grid_operation_cost": 309.87890625
+    },
+    {
+        "L2RPNReward": 51.91767501831055,
+        "grid_operation_cost": 309.087890625
+    },
+    {
+        "L2RPNReward": 51.89229202270508,
+        "grid_operation_cost": 298.80908203125
+    },
+    {
+        "L2RPNReward": 51.91870880126953,
+        "grid_operation_cost": 302.44775390625
+    },
+    {
+        "L2RPNReward": 51.939212799072266,
+        "grid_operation_cost": 314.408203125
+    },
+    {
+        "L2RPNReward": 52.03341293334961,
+        "grid_operation_cost": 302.29052734375
+    },
+    {
+        "L2RPNReward": 52.035396575927734,
+        "grid_operation_cost": 305.12060546875
+    },
+    {
+        "L2RPNReward": 52.08335876464844,
+        "grid_operation_cost": 300.780029296875
+    },
+    {
+        "L2RPNReward": 52.189571380615234,
+        "grid_operation_cost": 308.28515625
+    },
+    {
+        "L2RPNReward": 52.03501892089844,
+        "grid_operation_cost": 310.191162109375
+    },
+    {
+        "L2RPNReward": 52.16386795043945,
+        "grid_operation_cost": 304.429931640625
+    },
+    {
+        "L2RPNReward": 52.07527542114258,
+        "grid_operation_cost": 321.673828125
+    },
+    {
+        "L2RPNReward": 52.0884895324707,
+        "grid_operation_cost": 310.1771240234375
+    },
+    {
+        "L2RPNReward": 52.038169860839844,
+        "grid_operation_cost": 328.0546875
+    },
+    {
+        "L2RPNReward": 51.94193649291992,
+        "grid_operation_cost": 333.7353515625
+    },
+    {
+        "L2RPNReward": 51.99436569213867,
+        "grid_operation_cost": 332.1767578125
+    },
+    {
+        "L2RPNReward": 51.940250396728516,
+        "grid_operation_cost": 334.30078125
+    },
+    {
+        "L2RPNReward": 51.84334945678711,
+        "grid_operation_cost": 341.6923828125
+    },
+    {
+        "L2RPNReward": 51.73357391357422,
+        "grid_operation_cost": 350.9091796875
+    },
+    {
+        "L2RPNReward": 51.51707458496094,
+        "grid_operation_cost": 366.0849609375
+    },
+    {
+        "L2RPNReward": 51.54585647583008,
+        "grid_operation_cost": 364.2099609375
+    },
+    {
+        "L2RPNReward": 51.302799224853516,
+        "grid_operation_cost": 380.326171875
+    },
+    {
+        "L2RPNReward": 51.277042388916016,
+        "grid_operation_cost": 383.3671875
+    },
+    {
+        "L2RPNReward": 51.09043884277344,
+        "grid_operation_cost": 376.9703369140625
+    },
+    {
+        "L2RPNReward": 50.97236633300781,
+        "grid_operation_cost": 382.762451171875
+    },
+    {
+        "L2RPNReward": 50.79378128051758,
+        "grid_operation_cost": 392.572265625
+    },
+    {
+        "L2RPNReward": 50.59614181518555,
+        "grid_operation_cost": 402.954833984375
+    },
+    {
+        "L2RPNReward": 50.46037292480469,
+        "grid_operation_cost": 407.0062255859375
+    },
+    {
+        "L2RPNReward": 50.228450775146484,
+        "grid_operation_cost": 435.5068359375
+    },
+    {
+        "L2RPNReward": 49.99271774291992,
+        "grid_operation_cost": 429.80126953125
+    },
+    {
+        "L2RPNReward": 50.06294250488281,
+        "grid_operation_cost": 429.0853271484375
+    },
+    {
+        "L2RPNReward": 49.97748565673828,
+        "grid_operation_cost": 430.682861328125
+    },
+    {
+        "L2RPNReward": 49.883270263671875,
+        "grid_operation_cost": 440.3887939453125
+    },
+    {
+        "L2RPNReward": 49.767555236816406,
+        "grid_operation_cost": 434.4158935546875
+    },
+    {
+        "L2RPNReward": 49.624778747558594,
+        "grid_operation_cost": 444.69635009765625
+    },
+    {
+        "L2RPNReward": 49.55807113647461,
+        "grid_operation_cost": 449.27215576171875
+    },
+    {
+        "L2RPNReward": 49.560855865478516,
+        "grid_operation_cost": 448.56903076171875
+    },
+    {
+        "L2RPNReward": 49.60063171386719,
+        "grid_operation_cost": 438.359130859375
+    },
+    {
+        "L2RPNReward": 49.39113998413086,
+        "grid_operation_cost": 451.335693359375
+    },
+    {
+        "L2RPNReward": 49.29952621459961,
+        "grid_operation_cost": 463.88946533203125
+    },
+    {
+        "L2RPNReward": 49.14348602294922,
+        "grid_operation_cost": 475.23834228515625
+    },
+    {
+        "L2RPNReward": 49.3193244934082,
+        "grid_operation_cost": 465.6390380859375
+    },
+    {
+        "L2RPNReward": 49.10108947753906,
+        "grid_operation_cost": 478.663330078125
+    },
+    {
+        "L2RPNReward": 49.37791061401367,
+        "grid_operation_cost": 461.40655517578125
+    },
+    {
+        "L2RPNReward": 49.22071075439453,
+        "grid_operation_cost": 470.55267333984375
+    },
+    {
+        "L2RPNReward": 49.211788177490234,
+        "grid_operation_cost": 482.2587890625
+    },
+    {
+        "L2RPNReward": 49.317779541015625,
+        "grid_operation_cost": 476.4835205078125
+    },
+    {
+        "L2RPNReward": 49.67350387573242,
+        "grid_operation_cost": 459.5311279296875
+    },
+    {
+        "L2RPNReward": 49.91619110107422,
+        "grid_operation_cost": 447.887939453125
+    },
+    {
+        "L2RPNReward": 50.041229248046875,
+        "grid_operation_cost": 445.1055908203125
+    },
+    {
+        "L2RPNReward": 50.47614288330078,
+        "grid_operation_cost": 421.8079833984375
+    },
+    {
+        "L2RPNReward": 50.5800666809082,
+        "grid_operation_cost": 418.79541015625
+    },
+    {
+        "L2RPNReward": 50.72944259643555,
+        "grid_operation_cost": 413.22509765625
+    },
+    {
+        "L2RPNReward": 50.98627853393555,
+        "grid_operation_cost": 398.7237548828125
+    },
+    {
+        "L2RPNReward": 51.113609313964844,
+        "grid_operation_cost": 408.708984375
+    },
+    {
+        "L2RPNReward": 51.17739486694336,
+        "grid_operation_cost": 406.658203125
+    },
+    {
+        "L2RPNReward": 51.446258544921875,
+        "grid_operation_cost": 390.6826171875
+    },
+    {
+        "L2RPNReward": 51.48954391479492,
+        "grid_operation_cost": 368.1712646484375
+    },
+    {
+        "L2RPNReward": 51.62344741821289,
+        "grid_operation_cost": 377.1474609375
+    },
+    {
+        "L2RPNReward": 51.844261169433594,
+        "grid_operation_cost": 361.9892578125
+    },
+    {
+        "L2RPNReward": 51.785240173339844,
+        "grid_operation_cost": 362.923828125
+    },
+    {
+        "L2RPNReward": 51.83791732788086,
+        "grid_operation_cost": 356.23828125
+    },
+    {
+        "L2RPNReward": 51.98807907104492,
+        "grid_operation_cost": 343.904296875
+    },
+    {
+        "L2RPNReward": 51.93854522705078,
+        "grid_operation_cost": 344.361328125
+    },
+    {
+        "L2RPNReward": 51.909996032714844,
+        "grid_operation_cost": 340.271484375
+    },
+    {
+        "L2RPNReward": 51.84109878540039,
+        "grid_operation_cost": 339.38671875
+    },
+    {
+        "L2RPNReward": 51.856075286865234,
+        "grid_operation_cost": 334.76953125
+    },
+    {
+        "L2RPNReward": 51.79395294189453,
+        "grid_operation_cost": 333.80859375
+    },
+    {
+        "L2RPNReward": 45.4881591796875,
+        "grid_operation_cost": 668.701171875
+    },
+    {
+        "L2RPNReward": 46.10072708129883,
+        "grid_operation_cost": 680.96484375
+    },
+    {
+        "L2RPNReward": 46.452816009521484,
+        "grid_operation_cost": 709.8515625
+    },
+    {
+        "L2RPNReward": 0.0,
+        "grid_operation_cost": 1.0
+    }
+]
